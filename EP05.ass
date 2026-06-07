@@ -1,0 +1,145 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultItalics,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: DefaultItalicsTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: DefaultOverlap,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H004E4E4F,&H004E4E4F,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Flashback,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackItalics,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
+Style: FlashbackItalicsTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: Narration,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,16,&H00057AF9,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,10,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,18,0
+Style: CreditInfo,Noto Sans SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:37.99,0:01:40.50,Signs,SIGN,0,0,0,,{\bord1.5\fs12\c&HB6613C&\3c&HECEEEE&\pos(299.5,224.5)\frz15.83\fax0.03}Febreezy
+Dialogue: 0,0:01:25.00,0:01:33.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:01:40.50,0:01:42.29,DefaultItalics,YAMADA,0,0,0,,除臭剂？
+Dialogue: 0,0:01:42.29,0:01:44.75,Default,SASAKI,0,0,0,,那个，山田小姐？
+Dialogue: 0,0:01:45.61,0:01:47.00,Default,SASAKI,0,0,0,,我是不是……
+Dialogue: 0,0:01:47.00,0:01:51.28,Default,SASAKI,0,0,0,,嗯，该怎么说呢……
+Dialogue: 0,0:01:52.78,0:01:55.56,Default,SASAKI,0,0,0,,还是算了
+Dialogue: 0,0:01:57.98,0:02:01.80,Default,YAMADA,0,0,0,,加袋子一共1,563日元
+Dialogue: 0,0:02:02.52,0:02:03.46,Default,SASAKI,0,0,0,,好的
+Dialogue: 0,0:02:04.07,0:02:07.60,DefaultItalics,SASAKI,0,0,0,,这不是能问在上班的人的问题
+Dialogue: 0,0:02:10.73,0:02:13.03,Default,YAMADA,0,0,0,,找零和收据
+Dialogue: 0,0:02:14.15,0:02:15.53,Default,YAMADA,0,0,0,,感谢您的惠顾
+Dialogue: 0,0:02:16.34,0:02:17.47,Default,SASAKI,0,0,0,,谢谢
+Dialogue: 0,0:02:23.04,0:02:25.96,Signs,SIGN,0,0,0,,{\fad(478,398)\fs20\bord2.5\c&H383750&\3c&HF7F7F7&\pos(180,255)}Shit Workplace
+Dialogue: 0,0:02:25.58,0:02:28.46,Signs,SIGN,0,0,0,,{\fad(440,438)\fs20\bord2.5\c&H383750&\3c&HF7F7F7&\pos(180,255)}Power-Drunk Boss
+Dialogue: 0,0:02:28.04,0:02:30.96,Signs,SIGN,0,0,0,,{\fad(483,393)\fs20\bord2.5\c&H383750&\3c&HF7F7F7&\pos(180,255)}Deodorizer
+Dialogue: 0,0:02:30.59,0:02:33.05,Signs,SIGN,0,0,0,,{\fad(435,1)\fs20\bord2.5\c&H383750&\3c&HF7F7F7&\pos(180,255)}Question
+Dialogue: 0,0:02:23.77,0:02:25.63,DefaultItalics,YAMADA,0,0,0,,烂公司
+Dialogue: 0,0:02:26.14,0:02:27.94,DefaultItalics,YAMADA,0,0,0,,烂上司
+Dialogue: 0,0:02:28.69,0:02:31.15,DefaultItalics,YAMADA,0,0,0,,现在，除臭剂
+Dialogue: 0,0:02:31.15,0:02:33.05,DefaultItalics,YAMADA,0,0,0,,还有一个到嘴边的问题
+Dialogue: 0,0:02:38.48,0:02:40.06,DefaultItalics,YAMADA,0,0,0,,我知道了
+Dialogue: 0,0:02:41.59,0:02:43.06,Default,TAYAMA,0,0,0,,佐佐木先生
+Dialogue: 0,0:02:43.31,0:02:45.31,Default,TAYAMA,0,0,0,,有人说你身上烟味重？
+Dialogue: 0,0:02:48.19,0:02:51.38,Default,SASAKI,0,0,0,,你是读心术师吗田山小姐？
+Dialogue: 0,0:02:53.05,0:02:56.20,Default,TAYAMA,0,0,0,,跟你比起来谁都是读心术师
+Dialogue: 0,0:02:57.55,0:03:00.92,Default,TAYAMA,0,0,0,,我刚才看到你拿除臭剂了
+Dialogue: 0,0:03:01.78,0:03:03.28,Default,SASAKI,0,0,0,,从哪儿看到的？
+Dialogue: 0,0:03:03.28,0:03:05.58,DefaultItalics,TAYAMA,0,0,0,,嘿，我没骗你
+Dialogue: 0,0:03:08.08,0:03:11.61,Default,SASAKI,0,0,0,,反正你猜对了\N我们组长讨厌抽烟
+Dialogue: 0,0:03:11.61,0:03:14.72,Default,SASAKI,0,0,0,,他对我吼「臭死了！想想办法！」
+Dialogue: 0,0:03:14.72,0:03:16.20,DefaultItalics,TAYAMA,0,0,0,,哇，一箭命中
+Dialogue: 0,0:03:17.41,0:03:20.32,Default,SASAKI,0,0,0,,不过这是所有烟民的宿命
+Dialogue: 0,0:03:26.80,0:03:30.67,Default,TAYAMA,0,0,0,,抽完烟刷个牙\N味道就去大半了
+Dialogue: 0,0:03:32.02,0:03:35.40,Default,TAYAMA,0,0,0,,再往衣服上喷点就行了
+Dialogue: 0,0:03:35.40,0:03:37.28,Default,TAYAMA,0,0,0,,不过有时候……
+Dialogue: 0,0:03:39.01,0:03:42.23,Default,TAYAMA,0,0,0,,会遇到像我前几天那样的投诉鬼
+Dialogue: 0,0:03:43.49,0:03:45.74,Default,SASAKI,0,0,0,,你好厉害啊田山小姐！
+Dialogue: 0,0:03:45.74,0:03:48.25,Default,SASAKI,0,0,0,,知道这些太酷了！
+Dialogue: 0,0:03:48.60,0:03:52.26,Default,TAYAMA,0,0,0,,我只是转达前辈的教导
+Dialogue: 0,0:03:55.42,0:03:58.72,Default,SASAKI,0,0,0,,但告诉我的就是你啊
+Dialogue: 0,0:04:05.83,0:04:07.89,Default,TAYAMA,0,0,0,,佐佐木先生，握手
+Dialogue: 0,0:04:07.89,0:04:10.16,Default,SASAKI,0,0,0,,嗯？好、好吧？
+Dialogue: 0,0:04:10.65,0:04:13.98,Default,SASAKI,0,0,0,,等等，「握手」？田山小姐？
+Dialogue: 0,0:04:15.57,0:04:16.90,Default,TAYAMA,0,0,0,,给你
+Dialogue: 0,0:04:17.32,0:04:19.75,Default,TAYAMA,0,0,0,,我用的除臭喷雾
+Dialogue: 0,0:04:21.59,0:04:23.74,Default,SASAKI,0,0,0,,看起来不便宜，你确定吗？
+Dialogue: 0,0:04:23.74,0:04:26.74,Default,TAYAMA,0,0,0,,没事，快用完一半了\N家里还有
+Dialogue: 0,0:04:27.36,0:04:31.92,Default,SASAKI,0,0,0,,谢谢，好高级
+Dialogue: 0,0:04:32.34,0:04:37.16,Default,TAYAMA,0,0,0,,别喷太多的话\N公司里没人闻得出味道
+Dialogue: 0,0:04:38.93,0:04:40.47,Default,SASAKI,0,0,0,,你喜欢这个味道吗？
+Dialogue: 0,0:04:41.44,0:04:43.63,Default,SASAKI,0,0,0,,什么味的？
+Dialogue: 0,0:04:43.63,0:04:45.07,Default,TAYAMA,0,0,0,,要闻闻看吗？
+Dialogue: 0,0:04:47.00,0:04:50.06,Default,TAYAMA,0,0,0,,我一般都喷这儿，你闻
+Dialogue: 0,0:04:52.36,0:04:54.32,Default,SASAKI,0,0,0,,我才不会闻你！
+Dialogue: 0,0:04:54.32,0:04:58.57,Default,TAYAMA,0,0,0,,啊，还以为你会闻呢
+Dialogue: 0,0:04:59.71,0:05:04.07,Default,SASAKI,0,0,0,,田山小姐你是把我当狗吗
+Dialogue: 0,0:05:10.04,0:05:12.08,Default,TAYAMA,0,0,0,,也许是拉布拉多？
+Dialogue: 0,0:05:12.08,0:05:15.34,Default,SASAKI,0,0,0,,哈？那是什么？
+Dialogue: 0,0:05:15.34,0:05:16.18,Default,TAYAMA,0,0,0,,狗的品种
+Dialogue: 0,0:05:16.18,0:05:18.29,Default,SASAKI,0,0,0,,所以我说对了！
+Dialogue: 0,0:05:20.84,0:05:23.09,Signs,SIGN,0,0,0,,{\bord2\fs12\fnTimes New Roman\c&H5C86A0&\3c&HBFE9FC&\pos(383.5,18.5)}Genki Trading
+Dialogue: 0,0:05:41.97,0:05:44.61,DefaultItalics,SASAKI,0,0,0,,好，喷这个
+Dialogue: 0,0:05:45.74,0:05:51.00,DefaultItalics,SASAKI,0,0,0,,等等，她说别喷太多\N但正常用量是多少？
+Dialogue: 0,0:05:51.37,0:05:54.51,DefaultItalics,SASAKI,0,0,0,,我常用的除臭喷雾我能把握
+Dialogue: 0,0:05:55.92,0:05:57.39,Default,SUZUKI,0,0,0,,哇，真时尚
+Dialogue: 0,0:05:57.39,0:05:58.63,Default,SASAKI,0,0,0,,哇哦！铃木？
+Dialogue: 0,0:06:00.54,0:06:05.72,Default,SUZUKI,0,0,0,,说我们臭基本是组长打招呼的方式！
+Dialogue: 0,0:06:05.72,0:06:07.93,Default,SUZUKI,0,0,0,,别太当真了老兄！
+Dialogue: 0,0:06:07.93,0:06:10.64,Default,SASAKI,0,0,0,,但你想啊
+Dialogue: 0,0:06:10.64,0:06:15.16,Default,SASAKI,0,0,0,,抽完烟刷个牙再喷喷这个
+Dialogue: 0,0:06:15.16,0:06:19.44,Default,SASAKI,0,0,0,,气味管理就完美了——听说的
+Dialogue: 0,0:06:19.44,0:06:21.69,Default,SUZUKI,0,0,0,,听说的？听谁说的？
+Dialogue: 0,0:06:19.44,0:06:21.69,Signs,SIGN,0,0,0,,{\fs18\bord2\fnArial Black\c&H7D6347&\3c&HC8C8C1&\pos(518,156.5)}No smoking\Nin the restroom
+Dialogue: 0,0:06:21.69,0:06:24.29,Default,SASAKI,0,0,0,,嗯？呃，这个……
+Dialogue: 0,0:06:25.45,0:06:27.95,Signs,SIGN,0,0,0,,{\an5\bord0\blur1\p1\c&HF7F6F9&\pos(185,279.5)\fscx191\fscy77}m 0 0 l 100 0 100 100 0 100
+Dialogue: 1,0:06:25.45,0:06:27.95,Signs,SIGN,0,0,0,,{\fs15\an7\c&H403F4F&\pos(90,248.5)}Tayama-san [Tayama] (Name)\N\N{\fs13}Supermarket worker I smoke with\N(section unknown). She teases me\Nbut is in general very nice.
+Dialogue: 1,0:06:25.61,0:06:27.95,DefaultItalics,TAYAMA,0,0,0,,你倒是给我介绍介绍啊
+Dialogue: 0,0:06:29.69,0:06:30.44,Default,SASAKI,0,0,0,,接着
+Dialogue: 0,0:06:30.83,0:06:34.71,Default,SASAKI,0,0,0,,好冷！你这是干什么！
+Dialogue: 0,0:06:34.71,0:06:37.98,Default,SASAKI,0,0,0,,哇，这味道好！
+Dialogue: 0,0:06:37.98,0:06:39.84,Default,SASAKI,0,0,0,,带着这么好闻的味道回家
+Dialogue: 0,0:06:39.84,0:06:42.76,Default,SASAKI,0,0,0,,你老婆会重新爱上你的！
+Dialogue: 0,0:06:44.07,0:06:48.72,Default,SUZUKI,0,0,0,,别傻了，惠子酱早就对我死心塌地了
+Dialogue: 0,0:06:49.52,0:06:53.79,Default,SUZUKI,0,0,0,,不过我不介意她爱得更深一点！
+Dialogue: 0,0:06:56.51,0:06:58.61,Default,SUZUKI,0,0,0,,再给我讲讲兄弟
+Dialogue: 0,0:06:58.61,0:07:02.57,Default,SASAKI,0,0,0,,说了，刷牙加喷雾
+Dialogue: 0,0:07:02.57,0:07:03.99,Default,SASAKI,0,0,0,,就这样
+Dialogue: 0,0:07:07.74,0:07:10.37,Signs,SIGN,0,0,0,,{\fs16\bord2\c&HE6E0DB&\3c&H5940A8&\fax-0.15\frz9.077\pos(142,140)}24-Hour
+Dialogue: 0,0:07:07.74,0:07:10.37,Signs,SIGN,0,0,0,,{\fnArial Black\bord1.5\c&H2D0CB0&\3c&HF7F7F7&\fax-0.12\frz9.19\4c&H85634B&\shad2\pos(298.5,91)}Supermarket S
+Dialogue: 0,0:07:08.72,0:07:10.37,Default,YAMADA,0,0,0,,欢迎光临！
+Dialogue: 0,0:07:10.90,0:07:13.00,Default,YAMADA,0,0,0,,找零和收据
+Dialogue: 0,0:07:13.29,0:07:14.93,Default,SASAKI,0,0,0,,谢谢
+Dialogue: 0,0:07:15.53,0:07:16.58,Default,YAMADA,0,0,0,,嗯？
+Dialogue: 0,0:07:17.00,0:07:22.63,Default,YAMADA,0,0,0,,佐佐木先生，你今天\N身上有点田山酱的味道呢
+Dialogue: 0,0:07:24.13,0:07:29.89,DefaultItalics,SASAKI,0,0,0,,不是！那只是因为……\N啊！太丢人了！
+Dialogue: 0,0:07:31.65,0:07:33.85,Default,SASAKI,0,0,0,,哦，前几天我从她那儿拿到了这个喷雾
+Dialogue: 0,0:07:33.85,0:07:36.74,Default,SASAKI,0,0,0,,但没来得及问她要喷多少
+Dialogue: 0,0:07:37.90,0:07:40.24,Default,SASAKI,0,0,0,,看来今天喷太多了
+Dialogue: 0,0:07:45.60,0:07:49.31,Default,SASAKI,0,0,0,,对、对不起！谢谢！
+Dialogue: 0,0:07:52.70,0:07:55.54,Default,OHNO,0,0,0,,山田酱，可以打卡下班了
+Dialogue: 0,0:07:57.03,0:07:59.75,Default,OHNO,0,0,0,,你没事吧？发生什么了？
+Dialogue: 0,0:07:59.75,0:08:00.54,Default,YAMADA,0,0,0,,没……
+Dialogue: 0,0:08:01.31,0:08:04.80,Default,YAMADA,0,0,0,,只是想逗逗他，但是……
+Dialogue: 0,0:08:05.47,0:08:09.13,Default,YAMADA,0,0,0,,他的反应反而让我也脸红了
+Dialogue: 0,0:09:21.13,0:09:24.07,DefaultItalics,SASAKI,0,0,0,,我欠田山大师一个大人情
+Dialogue: 0,0:09:24.92,0:09:26.75,Signs,SIGN,0,0,0,,{\bord2\fnArial Black\c&H111313&\3c&H5A41B5&\pos(454,12.5)\frz356.3}Etiquette Master
+Dialogue: 0,0:09:27.69,0:09:31.39,DefaultItalics,SASAKI,0,0,0,,希望她会喜欢我的回礼
+Dialogue: 0,0:09:36.51,0:09:38.52,Default,SASAKI,0,0,0,,田山小姐，晚——
+Dialogue: 0,0:09:38.52,0:09:39.40,Default,GOTOU,0,0,0,,嗯？
+Dialogue: 0,0:09:40.87,0:09:42.77,DefaultItalics,SASAKI,0,0,0,,什么？！
+Dialogue: 0,0:09:42.77,0:09:47.02,DefaultItalics,SASAKI,0,0,0,,是、是另一个店员？！
+Dialogue: 0,0:09:47.64,0:09:51.27,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
+Dialogue: 0,0:09:51.77,0:09:55.40,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
+Dialogue: 0,0:09:56.11,0:09:59.36,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
+
