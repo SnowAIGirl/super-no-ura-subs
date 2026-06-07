@@ -181,7 +181,7 @@ Dialogue: 0,0:10:55.61,0:10:58.34,FlashbackItalics,SASAKI,0,0,0,,你装可爱的
 Dialogue: 0,0:10:58.91,0:11:00.12,FlashbackItalics,SASAKI,0,0,0,,田山小姐。
 Dialogue: 0,0:11:01.17,0:11:03.16,Default,TAYAMA,0,0,0,,别笑话那个，佐佐木。
 Dialogue: 0,0:11:06.22,0:11:08.12,DefaultItalics,TAYAMA,0,0,0,,你经常能看到的。
-Dialogue: 0,0:11:09.62,0:11:19.62,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:11:12.62,0:11:22.62,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:11:09.06,0:11:12.69,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
 Dialogue: 0,0:11:13.19,0:11:16.82,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
 Dialogue: 0,0:11:17.53,0:11:20.78,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler

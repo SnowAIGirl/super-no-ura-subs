@@ -42,8 +42,8 @@ for ep in range(1, 13):
                     if end > last_dialogue_end:
                         last_dialogue_end = end
     
-    # Place credit 1.5 seconds after last dialogue ends, for 10 seconds
-    start_sec = time_to_sec(last_dialogue_end) + 1.5
+    # Place credit 4.5 seconds after last dialogue ends, for 10 seconds
+    start_sec = time_to_sec(last_dialogue_end) + 4.5
     end_sec = start_sec + 10.0
     
     credit_line = f"Dialogue: 0,{sec_to_time(start_sec)},{sec_to_time(end_sec)},CreditInfo,,0,0,0,,{CREDIT_TEXT}\n"

@@ -127,7 +127,7 @@ Dialogue: 0,0:07:01.70,0:07:03.12,Default,TAYAMA,0,0,0,,24。
 Dialogue: 0,0:07:07.61,0:07:08.45,Default,SASAKI,0,0,0,,什……
 Dialogue: 0,0:07:08.99,0:07:11.43,Default,SASAKI,0,0,0,,那是什么数字？
 Dialogue: 0,0:07:12.87,0:07:17.96,Default,TAYAMA,0,0,0,,你回家路上慢慢想吧。
-Dialogue: 0,0:07:19.46,0:07:29.46,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:07:22.46,0:07:32.46,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:07:21.71,0:07:25.34,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
 Dialogue: 0,0:07:25.84,0:07:29.47,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
 Dialogue: 0,0:07:30.18,0:07:33.43,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
