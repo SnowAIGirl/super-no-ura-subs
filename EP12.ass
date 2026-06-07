@@ -1,0 +1,196 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultItalics,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: DefaultItalicsTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: DefaultOverlap,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H004E4E4F,&H004E4E4F,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Flashback,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackItalics,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
+Style: FlashbackItalicsTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: Narration,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,16,&H00057AF9,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,10,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,18,0
+Style: CreditInfo,Noto Sans SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:25.00,0:01:33.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:01:40.16,0:01:41.79,Default,OHNO,0,0,0,,哎呀！
+Dialogue: 0,0:01:42.08,0:01:45.13,Default,OHNO,0,0,0,,山田酱真努力啊
+Dialogue: 0,0:01:45.42,0:01:48.38,Default,OHNO,0,0,0,,我得向你学习
+Dialogue: 0,0:01:48.38,0:01:51.47,Default,YAMADA,0,0,0,,大野小姐的笑容已经很完美了
+Dialogue: 0,0:01:51.47,0:01:52.97,Default,OHNO,0,0,0,,是吗？
+Dialogue: 0,0:01:52.97,0:01:54.39,Default,GOTOU,0,0,0,,山田
+Dialogue: 0,0:01:54.80,0:01:57.76,Default,GOTOU,0,0,0,,能请你拍个照做个采访吗？
+Dialogue: 0,0:01:57.76,0:02:00.98,Default,YAMADA,0,0,0,,什么？又是公司宣传？
+Dialogue: 0,0:02:00.98,0:02:03.14,Default,GOTOU,0,0,0,,至少把不情愿藏起来啊山田
+Dialogue: 0,0:02:03.56,0:02:06.40,Default,YAMADA,0,0,0,,我之前不是刚做过吗
+Dialogue: 0,0:02:06.40,0:02:08.27,Default,GOTOU,0,0,0,,没办法
+Dialogue: 0,0:02:08.27,0:02:11.32,Default,GOTOU,0,0,0,,你今年又入围微笑奖了
+Dialogue: 0,0:02:11.32,0:02:12.65,Default,OHNO,0,0,0,,哇！
+Dialogue: 0,0:02:13.11,0:02:14.45,Default,YAMADA,0,0,0,,好吧
+Dialogue: 0,0:02:14.45,0:02:16.66,Default,YAMADA,0,0,0,,赶紧搞完吧！
+Dialogue: 0,0:02:17.07,0:02:19.33,Default,GOTOU,0,0,0,,转变真快
+Dialogue: 0,0:02:19.33,0:02:22.54,Default,GOTOU,0,0,0,,我都有点怀念你兼职时没笑脸的样子了
+Dialogue: 0,0:02:25.29,0:02:28.29,Signs,SIGN,0,0,0,,{\b0\fnNoto Sans SC\bord2\fs40\c&H080907&\3c&H080907&\t(17,1025,\3c&HFFFFFF&)\pos(335,95)}8 Years Ago
+Dialogue: 0,0:02:25.29,0:02:28.29,Signs,SIGN,0,0,0,,{\fs22\shad2\bord1\fnArial Black\c&H080907&\3c&H080907&\4c&H080907&\t(17,1025,\c&H6EA178&\3c&HE2F4E7&\4c&H637468&)\frz3.84\fax-0.1\pos(78.5,251)}Superfresh Market
+Dialogue: 0,0:02:29.50,0:02:30.80,Flashback,YAMADA,0,0,0,,我……
+Dialogue: 0,0:02:30.80,0:02:32.46,Flashback,YAMADA,0,0,0,,欢迎光临。
+Dialogue: 0,0:02:32.46,0:02:33.55,Flashback,GOTOU,0,0,0,,真差劲！
+Dialogue: 0,0:02:35.13,0:02:37.22,Flashback,YAMADA,0,0,0,,到底哪里不对店长？
+Dialogue: 0,0:02:37.22,0:02:39.85,Flashback,GOTOU,0,0,0,,眼神死板的嘴在抽搐
+Dialogue: 0,0:02:39.85,0:02:40.81,Flashback,GOTOU,0,0,0,,声音也太小
+Dialogue: 0,0:02:40.81,0:02:44.06,Flashback,YAMADA,0,0,0,,被你说得好像我全错了
+Dialogue: 0,0:02:44.06,0:02:46.31,Flashback,GOTOU,0,0,0,,你明白就好
+Dialogue: 0,0:02:47.40,0:02:49.61,Flashback,GOTOU,0,0,0,,怎么教你才能做好呢
+Dialogue: 0,0:02:49.61,0:02:52.40,Flashback,GOTOU,0,0,0,,其他工作都完美为什么就这个不行
+Dialogue: 0,0:02:52.40,0:02:54.07,Flashback,YAMADA,0,0,0,,一点也不完美
+Dialogue: 0,0:02:54.61,0:02:58.03,Flashback,YAMADA,0,0,0,,我还会被投诉服务态度
+Dialogue: 0,0:02:59.49,0:03:02.33,Flashback,YAMADA,0,0,0,,总是给你添麻烦对不起
+Dialogue: 0,0:03:03.70,0:03:05.54,Flashback,GOTOU,0,0,0,,听着山田
+Dialogue: 0,0:03:07.46,0:03:12.09,Flashback,GOTOU,0,0,0,,投诉你的都是同一个针对你的顾客
+Dialogue: 0,0:03:12.67,0:03:16.09,Flashback,GOTOU,0,0,0,,他们就是想找茬拿你当借口
+Dialogue: 0,0:03:16.59,0:03:19.97,Flashback,GOTOU,0,0,0,,投诉和你的服务我都会想办法
+Dialogue: 0,0:03:20.39,0:03:22.22,Flashback,GOTOU,0,0,0,,你别多想继续做好就行
+Dialogue: 0,0:03:23.81,0:03:24.98,Flashback,YAMADA,0,0,0,,好的
+Dialogue: 0,0:03:25.85,0:03:27.60,FlashbackItalics,YAMADA,0,0,0,,店长对我真好
+Dialogue: 0,0:03:28.52,0:03:32.48,FlashbackItalics,YAMADA,0,0,0,,虽然我给她添了这么多麻烦
+Dialogue: 0,0:03:36.03,0:03:38.91,Flashback,YAMADA,0,0,0,,拿到服务台可以换优惠券
+Dialogue: 0,0:03:38.91,0:03:41.16,Flashback,YAMADA,0,0,0,,拿到服务台可以换优惠券
+Dialogue: 0,0:03:41.16,0:03:43.70,Flashback,LADY,0,0,0,,哦是这样啊
+Dialogue: 0,0:03:43.70,0:03:45.62,Flashback,LADY,0,0,0,,谢谢小姐
+Dialogue: 0,0:03:46.58,0:03:48.37,Flashback,YAMADA,0,0,0,,感谢您——
+Dialogue: 0,0:03:53.63,0:03:54.46,Flashback,YAMADA,0,0,0,,我……
+Dialogue: 0,0:03:57.22,0:03:58.68,Flashback,YAMADA,0,0,0,,欢迎光临。
+Dialogue: 0,0:03:59.22,0:04:00.01,Flashback,YAMADA,0,0,0,,积分卡——
+Dialogue: 0,0:04:00.01,0:04:03.10,Flashback,NITPICKER,0,0,0,,我像带了吗？当然是忘了
+Dialogue: 0,0:04:04.52,0:04:05.93,Flashback,YAMADA,0,0,0,,非常抱歉
+Dialogue: 0,0:04:06.89,0:04:09.06,Flashback,YAMADA,0,0,0,,需要袋子——
+Dialogue: 0,0:04:09.06,0:04:11.44,Flashback,NITPICKER,0,0,0,,你看篮子里有吗？
+Dialogue: 0,0:04:11.44,0:04:12.82,Flashback,NITPICKER,0,0,0,,那就是需要
+Dialogue: 0,0:04:13.36,0:04:17.57,Flashback,NITPICKER,0,0,0,,要说几次你才能记住
+Dialogue: 0,0:04:18.20,0:04:20.78,Flashback,YAMADA,0,0,0,,您说得对对不起
+Dialogue: 0,0:04:21.70,0:04:23.45,Flashback,YAMADA,0,0,0,,我知道了
+Dialogue: 0,0:04:23.45,0:04:24.58,Flashback,NITPICKER,0,0,0,,喂！
+Dialogue: 0,0:04:24.95,0:04:28.83,Flashback,NITPICKER,0,0,0,,为什么先扫鸡蛋？压碎了怎么办？！
+Dialogue: 0,0:04:28.83,0:04:31.25,Flashback,NITPICKER,0,0,0,,这是基本常识吧！
+Dialogue: 0,0:04:31.25,0:04:33.34,Flashback,NITPICKER,0,0,0,,你上司什么都没教你吗？！
+Dialogue: 0,0:04:28.83,0:04:30.71,FlashbackTop,CUSTOMER 1,0,0,0,,那边怎么了？
+Dialogue: 0,0:04:30.71,0:04:31.83,FlashbackTop,CUSTOMER 2,0,0,0,,看起来不妙
+Dialogue: 0,0:04:33.34,0:04:37.09,Flashback,NITPICKER,0,0,0,,其他收银员也跟你一样吗？！
+Dialogue: 0,0:04:37.92,0:04:39.09,Flashback,OHNO,0,0,0,,店长！
+Dialogue: 0,0:04:39.09,0:04:40.93,Flashback,OHNO,0,0,0,,后藤店长！
+Dialogue: 0,0:04:40.93,0:04:43.60,Flashback,OHNO,0,0,0,,那个顾客又来了
+Dialogue: 0,0:04:43.60,0:04:45.26,Flashback,OHNO,0,0,0,,山田酱在被骂！
+Dialogue: 0,0:04:46.93,0:04:50.14,Flashback,NITPICKER,0,0,0,,每次结账你都一脸不情愿
+Dialogue: 0,0:04:50.14,0:04:52.98,Flashback,NITPICKER,0,0,0,,你为什么要在这里工作！
+Dialogue: 0,0:04:52.98,0:04:54.69,FlashbackTop,MOTHER,0,0,0,,别听他的
+Dialogue: 0,0:04:53.31,0:04:56.86,Flashback,NITPICKER,0,0,0,,你怎么不说话？道歉呢？！
+Dialogue: 0,0:04:56.86,0:04:58.44,Flashback,YAMADA,0,0,0,,非常抱歉
+Dialogue: 0,0:04:58.44,0:04:59.61,Flashback,NITPICKER,0,0,0,,又是这一句！
+Dialogue: 0,0:05:00.03,0:05:03.24,Flashback,NITPICKER,0,0,0,,至少道歉要像真心的！
+Dialogue: 0,0:05:03.24,0:05:05.87,Flashback,NITPICKER,0,0,0,,所以我讨厌学生工服务！
+Dialogue: 0,0:05:05.87,0:05:08.41,Flashback,NITPICKER,0,0,0,,旁边便利店那个也不行
+Dialogue: 0,0:05:08.41,0:05:10.54,Flashback,NITPICKER,0,0,0,,你更差劲！
+Dialogue: 0,0:05:10.54,0:05:13.63,Flashback,NITPICKER,0,0,0,,我教你你还不听——
+Dialogue: 0,0:05:13.63,0:05:14.75,Flashback,SASAKI,0,0,0,,喂
+Dialogue: 0,0:05:16.34,0:05:17.76,Flashback,SASAKI,0,0,0,,打扰一下
+Dialogue: 0,0:05:21.18,0:05:22.72,Flashback,SASAKI,0,0,0,,能闭嘴吗？
+Dialogue: 0,0:05:24.80,0:05:27.22,Flashback,NITPICKER,0,0,0,,什、什么意思？
+Dialogue: 0,0:05:27.22,0:05:30.10,Flashback,NITPICKER,0,0,0,,没看到我在训这个不称职的收银员吗？！
+Dialogue: 0,0:05:30.10,0:05:31.27,Flashback,SASAKI,0,0,0,,哦呃……
+Dialogue: 0,0:05:31.56,0:05:34.98,Flashback,SASAKI,0,0,0,,嗯我听得很清楚
+Dialogue: 0,0:05:34.98,0:05:39.32,Flashback,SASAKI,0,0,0,,但你中途开始扯不相干的话了
+Dialogue: 0,0:05:39.78,0:05:43.41,Flashback,SASAKI,0,0,0,,而且你不是老来骂这个姑娘吗
+Dialogue: 0,0:05:45.24,0:05:47.53,Flashback,SASAKI,0,0,0,,能不能消停会儿？
+Dialogue: 0,0:05:48.16,0:05:50.83,Flashback,SASAKI,0,0,0,,这里还有其他收银台
+Dialogue: 0,0:05:48.83,0:05:50.83,FlashbackTop,KID,0,0,0,,上啊大叔！
+Dialogue: 0,0:05:51.96,0:05:53.92,Flashback,SASAKI,0,0,0,,你为什么非要……
+Dialogue: 0,0:05:56.09,0:05:58.63,Flashback,SASAKI,0,0,0,,每次我排队都这样
+Dialogue: 0,0:06:03.51,0:06:06.68,Flashback,MANAGER,0,0,0,,先生请跟我们走一趟
+Dialogue: 0,0:06:07.10,0:06:07.89,Flashback,NITPICKER,0,0,0,,啧
+Dialogue: 0,0:06:10.93,0:06:12.56,Flashback,GOTOU,0,0,0,,让大野小姐接班
+Dialogue: 0,0:06:13.60,0:06:16.73,Flashback,OHNO,0,0,0,,你休息一下亲爱的
+Dialogue: 0,0:06:19.65,0:06:20.69,Flashback,YAMADA,0,0,0,,好的
+Dialogue: 0,0:06:30.70,0:06:32.58,Signs,SIGN,0,0,0,,{\fs38\fnArial Black\c&H2E5C62&\frz3.89\fax-0.1\3c&H8FBAE5&\bord1.5\4c&H232F42&\shad2\move(447,219,447,91,16,1851)}S{\c&H466E8A&}u{\c&H547D9C&}p{\c&H638CAE&}e{\c&H6E98BC&}r{\c&H78A3C9&}f{\c&H78A2C7&}r{\c&H77A0C5&}e{\c&H618CAC&}s{\c&H4B7794&}h {\c&H2A5053&}M{\c&H193D32&}a{\c&H173B2C&}r{\c&H153926&}ket
+Dialogue: 0,0:06:32.58,0:06:33.21,Signs,SIGN,0,0,0,,{\fs38\fnArial Black\c&H2E5C62&\frz3.89\fax-0.1\3c&H8FBAE5&\bord1.5\4c&H232F42&\shad2\move(447,88.5,447,52,23,607)}S{\c&H466E8A&}u{\c&H547D9C&}p{\c&H638CAE&}e{\c&H6E98BC&}r{\c&H78A3C9&}f{\c&H78A2C7&}r{\c&H77A0C5&}e{\c&H618CAC&}s{\c&H4B7794&}h {\c&H2A5053&}M{\c&H193D32&}a{\c&H173B2C&}r{\c&H153926&}ket
+Dialogue: 0,0:06:33.21,0:06:33.96,Signs,SIGN,0,0,0,,{\fs38\fnArial Black\c&H2E5C62&\frz3.89\fax-0.1\3c&H8FBAE5&\bord1.5\4c&H232F42&\shad2\move(447,50,447,13,29,738)}S{\c&H466E8A&}u{\c&H547D9C&}p{\c&H638CAE&}e{\c&H6E98BC&}r{\c&H78A3C9&}f{\c&H78A2C7&}r{\c&H77A0C5&}e{\c&H618CAC&}s{\c&H4B7794&}h {\c&H2A5053&}M{\c&H193D32&}a{\c&H173B2C&}r{\c&H153926&}ket
+Dialogue: 0,0:06:33.96,0:06:35.00,Signs,SIGN,0,0,0,,{\fs38\fnArial Black\c&H2E5C62&\frz3.89\fax-0.1\3c&H8FBAE5&\bord1.5\4c&H232F42&\shad2\move(447,11,447,-23,29,1030)}S{\c&H466E8A&}u{\c&H547D9C&}p{\c&H638CAE&}e{\c&H6E98BC&}r{\c&H78A3C9&}f{\c&H78A2C7&}r{\c&H77A0C5&}e{\c&H618CAC&}s{\c&H4B7794&}h {\c&H2A5053&}M{\c&H193D32&}a{\c&H173B2C&}r{\c&H153926&}ket
+Dialogue: 0,0:06:35.00,0:06:35.46,Signs,SIGN,0,0,0,,{\fs38\fnArial Black\c&H2E5C62&\frz3.89\fax-0.1\3c&H8FBAE5&\bord1.5\4c&H232F42&\shad2\move(447,-24.5,447,-32,22,439)}S{\c&H466E8A&}u{\c&H547D9C&}p{\c&H638CAE&}e{\c&H6E98BC&}r{\c&H78A3C9&}f{\c&H78A2C7&}r{\c&H77A0C5&}e{\c&H618CAC&}s{\c&H4B7794&}h {\c&H2A5053&}M{\c&H193D32&}a{\c&H173B2C&}r{\c&H153926&}ket
+Dialogue: 0,0:06:35.46,0:06:37.46,Signs,SIGN,0,0,0,,{\fs38\fnArial Black\c&H2E5C62&\frz3.89\fax-0.1\3c&H8FBAE5&\bord1.5\4c&H232F42&\shad2\move(447,-33,447,-36,22,355)}S{\c&H466E8A&}u{\c&H547D9C&}p{\c&H638CAE&}e{\c&H6E98BC&}r{\c&H78A3C9&}f{\c&H78A2C7&}r{\c&H77A0C5&}e{\c&H618CAC&}s{\c&H4B7794&}h {\c&H2A5053&}M{\c&H193D32&}a{\c&H173B2C&}r{\c&H153926&}ket
+Dialogue: 0,0:06:45.51,0:06:46.51,Flashback,YAMADA,0,0,0,,那个……
+Dialogue: 0,0:06:47.85,0:06:50.01,Flashback,SASAKI,0,0,0,,啊是你
+Dialogue: 0,0:06:50.01,0:06:53.73,Flashback,YAMADA,0,0,0,,谢谢你刚才帮我解围
+Dialogue: 0,0:06:54.14,0:06:57.31,Flashback,YAMADA,0,0,0,,而且让你因为我等了那么多次对不起
+Dialogue: 0,0:06:57.31,0:06:59.19,Flashback,SASAKI,0,0,0,,等等不对
+Dialogue: 0,0:06:59.19,0:07:02.23,Flashback,SASAKI,0,0,0,,那不全是你的错
+Dialogue: 0,0:07:02.82,0:07:05.65,Flashback,YAMADA,0,0,0,,不全是我的错因为我服务不好
+Dialogue: 0,0:07:05.65,0:07:07.53,Flashback,YAMADA,0,0,0,,所以对不起
+Dialogue: 0,0:07:12.08,0:07:16.37,Flashback,SASAKI,0,0,0,,我帮你不是为了什么
+Dialogue: 0,0:07:18.29,0:07:24.51,Flashback,SASAKI,0,0,0,,只是今天工作遇到糟心事正烦着
+Dialogue: 0,0:07:24.92,0:07:28.09,Flashback,SASAKI,0,0,0,,又看到你在挨骂
+Dialogue: 0,0:07:32.97,0:07:37.64,Flashback,SASAKI,0,0,0,,连那个一直对我很好的收银员都要挨骂
+Dialogue: 0,0:07:38.15,0:07:40.44,Flashback,SASAKI,0,0,0,,我就火了才插嘴的
+Dialogue: 0,0:07:40.90,0:07:42.19,Flashback,YAMADA,0,0,0,,我对你很好？
+Dialogue: 0,0:07:42.73,0:07:45.57,Flashback,SASAKI,0,0,0,,嗯又快又仔细
+Dialogue: 0,0:07:46.20,0:07:49.28,Flashback,YAMADA,0,0,0,,你对一个不在意的不礼貌的兼职这么说？
+Dialogue: 0,0:07:50.37,0:07:51.78,Flashback,SASAKI,0,0,0,,你不在意？
+Dialogue: 0,0:07:52.37,0:07:54.79,Flashback,SASAKI,0,0,0,,你明明一直全力以赴
+Dialogue: 0,0:07:57.16,0:07:59.54,Signs,SIGN,0,0,0,,{\fad(143,1)\fs15\u1\fnComic Sans MS\bord2\c&H363636&\3c&HF5F6F9&\frz-11.57\fax-0.1\pos(270.5,69.5)}Always start with a smile
+Dialogue: 0,0:08:00.38,0:08:03.05,FlashbackItalics,YAMADA,0,0,0,,至少得快
+Dialogue: 0,0:08:09.38,0:08:11.47,FlashbackItalics,YAMADA,0,0,0,,为什么我做不对呢
+Dialogue: 0,0:08:16.77,0:08:18.81,Flashback,SASAKI,0,0,0,,等等你……
+Dialogue: 0,0:08:21.94,0:08:25.36,Flashback,SASAKI,0,0,0,,对、对不起我说了什么让你哭了吗？
+Dialogue: 0,0:08:25.36,0:08:26.69,Flashback,YAMADA,0,0,0,,我没哭
+Dialogue: 0,0:08:26.69,0:08:29.82,Flashback,YAMADA,0,0,0,,只是眼睛在出汗
+Dialogue: 0,0:08:29.82,0:08:30.95,Flashback,SASAKI,0,0,0,,出汗……？
+Dialogue: 0,0:08:31.28,0:08:35.74,Flashback,YAMADA,0,0,0,,你怎么知道我一直在努力
+Dialogue: 0,0:08:35.74,0:08:38.16,Flashback,YAMADA,0,0,0,,我服务那么差
+Dialogue: 0,0:08:39.16,0:08:42.71,Flashback,YAMADA,0,0,0,,被难缠的顾客盯上
+Dialogue: 0,0:08:43.42,0:08:46.38,Flashback,YAMADA,0,0,0,,给同事和店长添那么多麻烦……
+Dialogue: 0,0:08:49.01,0:08:53.14,Flashback,YAMADA,0,0,0,,我想改好！我喜欢这份工作！
+Dialogue: 0,0:08:53.72,0:08:54.47,Flashback,YAMADA,0,0,0,,好难受……
+Dialogue: 0,0:08:57.60,0:08:59.81,Flashback,SASAKI,0,0,0,,你喜欢这份工作？
+Dialogue: 0,0:09:03.90,0:09:05.65,Flashback,SASAKI,0,0,0,,那就没问题
+Dialogue: 0,0:09:09.24,0:09:12.07,Flashback,SASAKI,0,0,0,,因为喜欢而坚持下去
+Dialogue: 0,0:09:12.07,0:09:16.74,Flashback,SASAKI,0,0,0,,其他需要的自然会来
+Dialogue: 0,0:09:29.21,0:09:31.30,Flashback,SASAKI,0,0,0,,嗯？你、你没事吧？
+Dialogue: 0,0:09:31.30,0:09:32.51,Flashback,YAMADA,0,0,0,,是那个
+Dialogue: 0,0:09:32.88,0:09:35.80,Flashback,YAMADA,0,0,0,,你的烟熏到我眼睛了
+Dialogue: 0,0:09:35.80,0:09:37.51,Flashback,SASAKI,0,0,0,,对、对不起拿太近了！
+Dialogue: 0,0:09:37.51,0:09:38.47,Flashback,YAMADA,0,0,0,,噗。
+Dialogue: 0,0:09:39.02,0:09:40.39,Flashback,SASAKI,0,0,0,,等等又怎么了？
+Dialogue: 0,0:09:40.39,0:09:41.52,Flashback,SASAKI,0,0,0,,你没事吧？
+Dialogue: 0,0:09:42.19,0:09:45.86,Flashback,YAMADA,0,0,0,,你的反应都太夸张了
+Dialogue: 0,0:09:54.82,0:09:57.83,Default,GOTOU,0,0,0,,好了应该够了
+Dialogue: 0,0:09:57.83,0:09:59.29,Default,GOTOU,0,0,0,,采访结束
+Dialogue: 0,0:09:59.62,0:10:01.58,Default,GOTOU,0,0,0,,你可以休息了
+Dialogue: 0,0:10:01.58,0:10:03.25,Default,YAMADA,0,0,0,,喂店长
+Dialogue: 0,0:10:04.50,0:10:06.96,Default,YAMADA,0,0,0,,这家店还叫另一个名字的时候
+Dialogue: 0,0:10:06.96,0:10:10.55,Default,YAMADA,0,0,0,,有个人帮我骂过一个针对我的顾客
+Dialogue: 0,0:10:10.55,0:10:11.67,Default,YAMADA,0,0,0,,还记得吗？
+Dialogue: 0,0:10:11.67,0:10:17.18,Default,GOTOU,0,0,0,,我干了这么多年见过多少个这样的了？
+Dialogue: 0,0:10:17.18,0:10:19.14,Default,GOTOU,0,0,0,,不可能完全不记得
+Dialogue: 0,0:10:20.81,0:10:23.81,DefaultItalics,YAMADA,0,0,0,,连我也不记得他的脸了
+Dialogue: 0,0:10:25.23,0:10:29.32,DefaultItalics,YAMADA,0,0,0,,他总是在店里买完东西在门口抽烟
+Dialogue: 0,0:10:30.19,0:10:33.11,DefaultItalics,YAMADA,0,0,0,,头发乱蓬蓬衬衫皱巴巴
+Dialogue: 0,0:10:33.11,0:10:35.41,DefaultItalics,YAMADA,0,0,0,,黑眼圈很重
+Dialogue: 0,0:10:40.41,0:10:45.71,DefaultItalics,YAMADA,0,0,0,,我们因为投诉撤掉烟灰缸后他就不再来了
+Dialogue: 0,0:10:48.34,0:10:52.09,DefaultItalics,YAMADA,0,0,0,,不知道他现在在哪里抽着呢
+Dialogue: 0,0:11:02.55,0:11:06.18,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
+Dialogue: 0,0:11:06.68,0:11:10.31,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
+Dialogue: 0,0:11:11.02,0:11:14.27,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
+
