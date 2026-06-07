@@ -11,8 +11,13 @@ Crunchyroll 源 12 集完整中文字幕（ASS 格式）
 - Smoking Behind the Supermarket with You
 - 躲在超市后门抽烟的两人
 - 在超市后门吸烟的二人
+- 躲在超市後門抽煙的兩人
+- 在超市後門吸煙的二人
+- 超市后门抽烟二人组
+- 超市后门的烟友
 - 中文字幕 Chinese Subtitles
-- 字幕下载
+- 字幕下载 Subtitle Download
+- ASS字幕 ASS Subtitles
 
 ## 制作信息 Credits
 
