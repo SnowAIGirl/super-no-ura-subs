@@ -1,0 +1,181 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultItalics,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: DefaultTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: DefaultItalicsTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: DefaultOverlap,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H004E4E4F,&H004E4E4F,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,0
+Style: Flashback,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackItalics,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: FlashbackTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,0,0,0,100,100,0,0,1,2,1,8,20,20,18,0
+Style: FlashbackItalicsTop,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,0
+Style: Narration,Noto Sans SC,24,&H00FFFFFF,&H000000FF,&H00000050,&H00000050,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Signs,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,0
+Style: Signs_EpTitle,Times New Roman,16,&H00057AF9,&H000000FF,&HC8000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,30,30,10,0
+Style: Credits,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,18,0
+Style: CreditInfo,Noto Sans SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:32.95,0:01:35.70,Signs,SIGN,0,0,0,,{\bord2\fs18\fnTimes New Roman\c&H5D86A1&\3c&HBFE8FD&}Genki Trading
+Dialogue: 0,0:01:25.00,0:01:33.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:01:36.03,0:01:39.12,Default,EMPLOYEE F,0,0,0,,今天又要开到半夜了吧
+Dialogue: 0,0:01:39.12,0:01:43.33,Default,SUZUKI,0,0,0,,真希望有人炸一下把会搅黄了
+Dialogue: 0,0:01:44.25,0:01:46.46,Default,EMPLOYEE F,0,0,0,,开会到底算啥\N我已经搞不懂了
+Dialogue: 0,0:01:48.25,0:01:51.47,DefaultItalics,SASAKI,0,0,0,,连续开会开得\N大家都快疯了
+Dialogue: 0,0:01:53.59,0:01:55.93,DefaultItalics,SASAKI,0,0,0,,老实说我也是
+Dialogue: 0,0:01:56.55,0:01:59.93,DefaultItalics,SASAKI,0,0,0,,还好我有我的终极治愈：
+Dialogue: 0,0:01:59.93,0:02:03.19,DefaultItalics,SASAKI,0,0,0,,去S超市二号收银台\N就能看到山田小姐的笑容！
+Dialogue: 0,0:02:03.19,0:02:05.48,FlashbackItalics,YAMADA,0,0,0,,欢迎光临！谢谢！
+Dialogue: 0,0:02:05.48,0:02:09.32,FlashbackItalics,TAYAMA,0,0,0,,大叔你就是总在\N二号收银台排队的人吧
+Dialogue: 0,0:02:45.56,0:02:47.52,DefaultItalics,SASAKI,0,0,0,,今晚不在吗
+Dialogue: 0,0:02:53.03,0:02:54.70,Default,YAMADA,0,0,0,,欢迎下次再来！
+Dialogue: 0,0:02:54.70,0:02:57.28,DefaultItalics,SASAKI,0,0,0,,哇，来得正好！
+Dialogue: 0,0:02:58.24,0:03:02.24,FlashbackItalics,YAMADA,0,0,0,,……你是我的粉丝！
+Dialogue: 0,0:03:04.33,0:03:05.71,Default,YAMADA,0,0,0,,我来帮你结账
+Dialogue: 0,0:03:08.38,0:03:10.04,Default,YAMADA,0,0,0,,欢迎光临
+Dialogue: 0,0:03:10.04,0:03:12.38,Default,SASAKI,0,0,0,,麻、麻烦你了
+Dialogue: 0,0:03:12.38,0:03:15.34,Default,YAMADA,0,0,0,,好的，有积分卡吗？
+Dialogue: 0,0:03:16.59,0:03:17.34,Default,SASAKI,0,0,0,,给
+Dialogue: 0,0:03:17.64,0:03:19.35,Default,YAMADA,0,0,0,,谢谢
+Dialogue: 0,0:03:20.55,0:03:22.31,Default,YAMADA,0,0,0,,卡还给您
+Dialogue: 0,0:03:24.43,0:03:26.44,FlashbackItalics,YAMADA,0,0,0,,听田山酱说了……
+Dialogue: 0,0:03:26.44,0:03:28.35,FlashbackItalics,YAMADA,0,0,0,,……你是我的粉丝！
+Dialogue: 0,0:03:31.61,0:03:32.57,Default,YAMADA,0,0,0,,{\fs16}先生？
+Dialogue: 0,0:03:32.57,0:03:33.48,Default,YAMADA,0,0,0,,先生？
+Dialogue: 0,0:03:33.48,0:03:34.15,Default,SASAKI,0,0,0,,在
+Dialogue: 0,0:03:34.65,0:03:36.95,Default,YAMADA,0,0,0,,883日元
+Dialogue: 0,0:03:36.95,0:03:39.11,Default,SASAKI,0,0,0,,哦，好的
+Dialogue: 0,0:03:43.04,0:03:49.42,DefaultItalics,SASAKI,0,0,0,,之前那么丢人了\N她还照常接待我，真感激
+Dialogue: 0,0:03:50.33,0:03:53.75,DefaultItalics,SASAKI,0,0,0,,就我一个人瞎紧张！\N蠢货！白痴！
+Dialogue: 0,0:03:54.88,0:03:58.59,DefaultItalics,SASAKI,0,0,0,,今后也请让我继续来您这儿买东西！
+Dialogue: 0,0:03:59.09,0:04:01.51,DefaultItalics,YAMADA,0,0,0,,随您花！
+Dialogue: 0,0:04:11.77,0:04:15.57,Default,SUZUKI,0,0,0,,发给客户的道歉邮件\N一直没有回复
+Dialogue: 0,0:04:15.57,0:04:18.78,Default,SUZUKI,0,0,0,,再也见不到家人了\N我会死在这儿的……
+Dialogue: 0,0:04:19.24,0:04:21.12,Default,SUZUKI,0,0,0,,坐在这种大叔旁边
+Dialogue: 0,0:04:21.12,0:04:22.95,Default,SASAKI,0,0,0,,少废话了您
+Dialogue: 0,0:04:22.95,0:04:25.58,Default,SUZUKI,0,0,0,,话说你为啥在加班？
+Dialogue: 0,0:04:26.20,0:04:29.04,Default,SASAKI,0,0,0,,帮新人改资料
+Dialogue: 0,0:04:29.04,0:04:31.29,Default,SUZUKI,0,0,0,,你是不是被欺负了
+Dialogue: 0,0:04:31.29,0:04:34.80,Default,SASAKI,0,0,0,,这活儿本来就不是\N新人该干的
+Dialogue: 0,0:04:34.80,0:04:36.51,Default,SUZUKI,0,0,0,,是组长吧
+Dialogue: 0,0:04:36.51,0:04:40.13,Default,SUZUKI,0,0,0,,他就信奉\N把人扔进现场自学成才那套
+Dialogue: 0,0:04:40.13,0:04:43.43,Default,SUZUKI,0,0,0,,吹得那么好听\N他自己倒是收拾烂摊子啊！
+Dialogue: 0,0:04:45.39,0:04:48.98,Default,SASAKI,0,0,0,,不过最辛苦的还是新人
+Dialogue: 0,0:04:48.98,0:04:50.19,Default,SASAKI,0,0,0,,你看这资料
+Dialogue: 0,0:04:50.44,0:04:53.40,Default,SASAKI,0,0,0,,一看就是拼尽全力做的
+Dialogue: 0,0:04:53.98,0:04:56.94,DefaultItalics,SASAKI,0,0,0,,再说了，我有我的治愈！
+Dialogue: 0,0:04:56.94,0:04:58.74,DefaultItalics,YAMADA,0,0,0,,欢迎光临！
+Dialogue: 0,0:04:58.74,0:05:00.90,DefaultItalics,SASAKI,0,0,0,,这点事打不倒我
+Dialogue: 0,0:05:00.90,0:05:04.41,DefaultItalics,TAYAMA,0,0,0,,哟，大粉丝先生来啦
+Dialogue: 0,0:05:07.29,0:05:08.37,Default,SASAKI,0,0,0,,噗——！
+Dialogue: 0,0:05:08.95,0:05:12.96,Default,SASAKI,0,0,0,,啊——！白改了！
+Dialogue: 0,0:05:14.13,0:05:16.71,Default,SUZUKI,0,0,0,,今晚通宵派对了！
+Dialogue: 0,0:05:18.71,0:05:20.97,Default,OHNO,0,0,0,,非常感谢
+Dialogue: 0,0:05:20.97,0:05:22.26,Default,SASAKI,0,0,0,,谢谢
+Dialogue: 0,0:05:22.97,0:05:24.89,DefaultItalics,SASAKI,0,0,0,,而她不在
+Dialogue: 0,0:05:24.89,0:05:29.64,DefaultItalics,SASAKI,0,0,0,,老天在惩罚我\N不该把别人当成精神寄托
+Dialogue: 0,0:05:30.73,0:05:33.65,DefaultItalics,SASAKI,0,0,0,,要不找个兴趣爱好吧
+Dialogue: 0,0:05:33.65,0:05:35.19,Default,TAYAMA,0,0,0,,佐佐木先生
+Dialogue: 0,0:05:36.36,0:05:38.23,Default,TAYAMA,0,0,0,,咋了
+Dialogue: 0,0:05:39.99,0:05:44.32,Default,TAYAMA,0,0,0,,现在吸烟区就我一个人\N要不要来？
+Dialogue: 0,0:05:49.16,0:05:53.50,Default,SASAKI,0,0,0,,田山小姐！\N我正想找你！
+Dialogue: 0,0:05:54.12,0:05:58.38,Default,SASAKI,0,0,0,,你怎么能当着山田小姐的面\N说我是她粉丝啊！
+Dialogue: 0,0:05:58.38,0:06:01.51,Default,SASAKI,0,0,0,,从那以后每次排队\N都尴尬得要死
+Dialogue: 0,0:06:01.51,0:06:03.76,Default,TAYAMA,0,0,0,,可不是嘛，但你还在排
+Dialogue: 0,0:06:05.22,0:06:06.64,DefaultItalics,SASAKI,0,0,0,,她到底是从哪儿看到的
+Dialogue: 0,0:06:12.85,0:06:15.65,Default,TAYAMA,0,0,0,,佐佐木先生，\N上次那么说对不住了
+Dialogue: 0,0:06:18.27,0:06:21.19,Default,TAYAMA,0,0,0,,不过山田小姐很开心哦
+Dialogue: 0,0:06:21.19,0:06:23.65,Default,TAYAMA,0,0,0,,她自己不也说了嘛
+Dialogue: 0,0:06:23.65,0:06:28.16,Default,SASAKI,0,0,0,,我活这么大岁数\N可不会傻到当真
+Dialogue: 0,0:06:28.16,0:06:31.66,Default,TAYAMA,0,0,0,,是吗？那你要说的就这些？
+Dialogue: 0,0:06:32.16,0:06:33.66,Default,SASAKI,0,0,0,,哦对了还有……
+Dialogue: 0,0:06:34.21,0:06:36.42,Default,SASAKI,0,0,0,,给你的，不嫌弃的话
+Dialogue: 0,0:06:36.42,0:06:40.92,Signs,SIGN,0,0,0,,{\fs20\bord2\fnComic Sans MS\c&H323547&\3c&HECF2F5&\pos(316.5,80.5)}Yummy Mochi Chips
+Dialogue: 0,0:06:36.67,0:06:40.92,Default,SASAKI,0,0,0,,那晚让我在这儿抽烟的谢礼
+Dialogue: 0,0:06:40.92,0:06:42.30,Default,TAYAMA,0,0,0,,嘿，我认识这个
+Dialogue: 0,0:06:42.30,0:06:46.93,Default,SASAKI,0,0,0,,你认识Yummy Mochi Chips？\N我很喜欢
+Dialogue: 0,0:06:46.93,0:06:50.93,Default,TAYAMA,0,0,0,,大爷大妈们特别喜欢
+Dialogue: 0,0:06:51.43,0:06:53.60,DefaultItalics,SASAKI,0,0,0,,所以我已经迈入大爷的领域了
+Dialogue: 0,0:06:54.31,0:06:58.73,Default,TAYAMA,0,0,0,,我一直想尝尝\N谢谢你啊佐佐木先生
+Dialogue: 0,0:06:58.73,0:07:01.44,Default,TAYAMA,0,0,0,,别站着了，坐下抽一根
+Dialogue: 0,0:07:01.73,0:07:05.70,DefaultItalics,SASAKI,0,0,0,,哦？我老头子的口味居然管用了？
+Dialogue: 0,0:07:05.70,0:07:08.70,DefaultItalics,SASAKI,0,0,0,,田山小姐总是出人意料！
+Dialogue: 0,0:07:09.16,0:07:12.58,Default,TAYAMA,0,0,0,,刚下班有点饿了
+Dialogue: 0,0:07:12.58,0:07:14.75,Default,SASAKI,0,0,0,,别吃超过一半
+Dialogue: 0,0:07:14.75,0:07:17.37,Default,SASAKI,0,0,0,,吃太饱睡觉不好
+Dialogue: 0,0:07:21.17,0:07:26.30,Default,SASAKI,0,0,0,,烟落公司了\N身上没带
+Dialogue: 0,0:07:27.43,0:07:29.34,Default,TAYAMA,0,0,0,,那抽我的吧
+Dialogue: 0,0:07:29.76,0:07:31.85,Default,SASAKI,0,0,0,,哪能白拿你的
+Dialogue: 0,0:07:32.97,0:07:34.02,Default,TAYAMA,0,0,0,,来，抽这根
+Dialogue: 0,0:07:36.69,0:07:38.10,Default,SASAKI,0,0,0,,田山小姐……
+Dialogue: 0,0:07:39.94,0:07:43.07,Default,SASAKI,0,0,0,,你要想吃薯片\N直说就行
+Dialogue: 0,0:07:43.07,0:07:46.45,Default,TAYAMA,0,0,0,,嘿，你挺敏锐的嘛
+Dialogue: 0,0:07:47.78,0:07:51.20,Default,SASAKI,0,0,0,,你很喜欢捉弄我这老头子吗
+Dialogue: 0,0:07:51.20,0:07:52.62,Default,TAYAMA,0,0,0,,非常喜欢
+Dialogue: 0,0:07:52.62,0:07:54.24,Default,SASAKI,0,0,0,,我就知道！
+Dialogue: 0,0:07:54.58,0:07:59.04,Default,TAYAMA,0,0,0,,没办法，你是我的治愈
+Dialogue: 0,0:07:59.04,0:08:01.34,Default,SASAKI,0,0,0,,这、这是什么意思？
+Dialogue: 0,0:08:01.34,0:08:04.67,Default,TAYAMA,0,0,0,,跟你去山田小姐那儿排队一个道理
+Dialogue: 0,0:08:05.59,0:08:08.05,Default,SASAKI,0,0,0,,你又拿我开涮
+Dialogue: 0,0:08:08.05,0:08:12.43,Default,SASAKI,0,0,0,,我可从没像你对我这样\N逗过山田小姐
+Dialogue: 0,0:08:12.72,0:08:15.10,Default,TAYAMA,0,0,0,,你不懂吗？
+Dialogue: 0,0:08:15.10,0:08:17.94,Default,TAYAMA,0,0,0,,大家各自有各自的治愈方式
+Dialogue: 0,0:08:17.94,0:08:19.81,Default,TAYAMA,0,0,0,,别闷闷不乐的了
+Dialogue: 0,0:08:20.27,0:08:22.56,Default,TAYAMA,0,0,0,,下次再来哦，佐佐木先生
+Dialogue: 0,0:08:25.82,0:08:28.45,Default,SASAKI,0,0,0,,我才没有闷闷不乐！
+Dialogue: 0,0:08:28.99,0:08:31.49,Signs,SIGN,0,0,0,,{\bord2\fs18\fnTimes New Roman\c&H6F746F&\3c&HE7EDE9&}Genki Trading
+Dialogue: 0,0:08:33.28,0:08:35.24,Default,SUZUKI,0,0,0,,早
+Dialogue: 0,0:08:35.24,0:08:37.00,Signs,SIGN,0,0,0,,{\fs22\fnComic Sans MS\c&H393834&\frz-7.85\fax0.12\pos(30.5,78)}Souvenirs
+Dialogue: 0,0:08:35.24,0:08:37.00,Signs,SIGN,0,0,0,,{\fs22\fnComic Sans MS\c&H393834&\fax0.12\frz353.8\pos(43.5,141.29)}go here
+Dialogue: 0,0:08:37.00,0:08:41.25,Signs,SIGN,0,0,0,,{\an9\bord2\fnComic Sans MS\c&H29293C&\3c&HEDF1F3&}Yummy Mochi Chips
+Dialogue: 0,0:08:41.54,0:08:44.00,Default,SASAKI,0,0,0,,跟客户谈妥了？
+Dialogue: 0,0:08:44.00,0:08:49.42,Default,SUZUKI,0,0,0,,那当然，我的道歉技能\N已经炉火纯青了
+Dialogue: 0,0:08:52.05,0:08:54.14,Default,SUZUKI,0,0,0,,这些薯片是你带来的？
+Dialogue: 0,0:08:54.14,0:08:55.89,Default,SASAKI,0,0,0,,你怎么知道？
+Dialogue: 0,0:08:55.89,0:08:59.52,Default,SUZUKI,0,0,0,,别闹了，你知道你喂过我多少回了吗
+Dialogue: 0,0:08:59.52,0:09:00.64,Default,SASAKI,0,0,0,,哦……
+Dialogue: 0,0:09:00.64,0:09:03.90,Default,SUZUKI,0,0,0,,一吃起来就停不下来
+Dialogue: 0,0:09:03.90,0:09:06.82,Default,SASAKI,0,0,0,,配酒也不错\N这袋拿回家吧
+Dialogue: 0,0:09:06.82,0:09:09.40,Default,SUZUKI,0,0,0,,那我就不客气了！
+Dialogue: 0,0:09:10.20,0:09:12.91,Default,SUZUKI,0,0,0,,可你怎么有这么多？
+Dialogue: 0,0:09:13.66,0:09:16.41,Default,SUZUKI,0,0,0,,该不会批量买的吧
+Dialogue: 0,0:09:16.41,0:09:18.75,Default,SASAKI,0,0,0,,每次去超市都会买
+Dialogue: 0,0:09:19.16,0:09:22.04,Default,SASAKI,0,0,0,,忘了家里还有\N结果就多出来了
+Dialogue: 0,0:09:22.42,0:09:25.21,Default,SUZUKI,0,0,0,,哈？那就别买了啊
+Dialogue: 0,0:09:25.21,0:09:28.51,Default,SASAKI,0,0,0,,可不买的话\N我就没东西可去超市买了
+Dialogue: 0,0:09:28.51,0:09:31.30,Default,SUZUKI,0,0,0,,那就别去超市了啊！
+Dialogue: 0,0:09:31.30,0:09:33.80,Signs,SIGN,0,0,0,,{\fs15\bord2\c&HE6E0DB&\3c&H4C3599&\frz9.82\fax-0.15\pos(143,142.5)}24-Hour
+Dialogue: 0,0:09:31.30,0:09:33.80,Signs,SIGN,0,0,0,,{\fs20\fnArial Black\bord2\c&H2D0DAD&\3c&HF1E9E8&\fax-0.1\frz7.36\4c&H85634B&\shad2\pos(304,165)}Supermarket S
+Dialogue: 0,0:09:39.18,0:09:40.43,Signs,SIGN,0,0,0,,{\bord2\fs20\fnComic Sans MS\c&H282A3E&\3c&HEBF0F5&}Yummy Mochi Chips
+Dialogue: 0,0:09:41.18,0:09:43.56,FlashbackItalics,SUZUKI,0,0,0,,那别买不就行了
+Dialogue: 0,0:09:50.15,0:09:51.45,Default,YAMADA,0,0,0,,欢迎光临
+Dialogue: 0,0:09:54.99,0:09:58.16,Default,YAMADA,0,0,0,,你总买的那个薯片\N真好吃呢
+Dialogue: 0,0:09:58.16,0:10:01.83,Default,SASAKI,0,0,0,,嗯？山田小姐也喜欢吗？
+Dialogue: 0,0:10:01.83,0:10:05.71,Default,YAMADA,0,0,0,,喜欢啊，最近才知道的
+Dialogue: 0,0:10:05.71,0:10:09.09,Default,YAMADA,0,0,0,,有人送了我一些\N觉得特别好吃
+Dialogue: 0,0:10:09.09,0:10:10.96,Default,YAMADA,0,0,0,,现在我也一直在吃了
+Dialogue: 0,0:10:10.96,0:10:13.43,DefaultItalics,SASAKI,0,0,0,,有人送了……最近？
+Dialogue: 0,0:10:13.43,0:10:15.47,DefaultItalics,TAYAMA,0,0,0,,薯片好吃
+Dialogue: 0,0:10:15.93,0:10:19.01,DefaultItalics,SASAKI,0,0,0,,等等，难道说……
+Dialogue: 0,0:10:19.47,0:10:21.98,DefaultItalics,SASAKI,0,0,0,,山田小姐和田山小姐……
+Dialogue: 0,0:10:24.35,0:10:27.19,DefaultItalics,SASAKI,0,0,0,,关系很好吗？
+Dialogue: 0,0:10:27.27,0:10:32.11,Signs,SIGN,0,0,0,,{\fad(684,1)\fs12\bord2\fnComic Sans MS\c&H505764&\3c&HE9F1F6&\pos(216,266)}Yummy Mochi Chips
+Dialogue: 0,0:10:28.02,0:10:29.15,DefaultItalics,TAYAMA,0,0,0,,吃这个吧
+Dialogue: 0,0:10:29.15,0:10:31.15,DefaultItalics,YAMADA,0,0,0,,哇，谢谢！
+Dialogue: 0,0:10:32.61,0:10:34.99,Default,OHNO,0,0,0,,花粉症吗，山田酱
+Dialogue: 0,0:10:35.49,0:10:41.33,Default,TAYAMA,0,0,0,,没，只是感觉有个迟钝的老头\N在那边做白日梦想着我呢
+Dialogue: 0,0:10:44.74,0:10:48.37,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
+Dialogue: 0,0:10:48.87,0:10:52.50,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
+Dialogue: 0,0:10:53.21,0:10:56.46,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
+
