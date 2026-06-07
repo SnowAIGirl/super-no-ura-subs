@@ -175,6 +175,7 @@ Dialogue: 0,0:10:28.02,0:10:29.15,DefaultItalics,TAYAMA,0,0,0,,吃这个吧。
 Dialogue: 0,0:10:29.15,0:10:31.15,DefaultItalics,YAMADA,0,0,0,,哇，谢谢！
 Dialogue: 0,0:10:32.61,0:10:34.99,Default,OHNO,0,0,0,,花粉症吗，山田酱。
 Dialogue: 0,0:10:35.49,0:10:41.33,Default,TAYAMA,0,0,0,,没，只是感觉有个迟钝的老头\N在那边做白日梦想着我呢。
+Dialogue: 0,0:10:42.83,0:10:52.83,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:10:44.74,0:10:48.37,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
 Dialogue: 0,0:10:48.87,0:10:52.50,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
 Dialogue: 0,0:10:53.21,0:10:56.46,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
