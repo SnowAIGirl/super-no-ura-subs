@@ -27,7 +27,7 @@ Style: CreditInfo,Noto Sans SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:25.00,0:03:33.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:03:26.00,0:03:34.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:00:03.11,0:00:05.36,Signs,SIGN,0,0,0,,{\bord2\fs10\c&H4F615F&\3c&HC1E7E8&\fax0.3\frz30.64\pos(217.5,125.5)}Sasaki-san
 Dialogue: 0,0:00:03.11,0:00:05.36,Signs,SIGN,0,0,0,,{\fs12\fnTimes New Roman\c&H6B4D40&\fax0.43\pos(386.5,201)\frz28.42}Wholesome Memorial Hospital
 Dialogue: 0,0:00:05.65,0:00:09.24,DefaultItalics,SASAKI,0,0,0,,又到了每年最恐怖的季节。
@@ -230,7 +230,7 @@ Dialogue: 0,0:13:36.59,0:13:40.34,Default,TAYAMA,0,0,0,,不过你让我这么担
 Dialogue: 0,0:13:40.34,0:13:43.64,Default,SASAKI,0,0,0,,嗯、嗯对不起。
 Dialogue: 0,0:13:43.64,0:13:47.01,Default,SASAKI,0,0,0,,但我很感谢你的关心。
 Dialogue: 0,0:13:47.51,0:13:48.31,Default,TAYAMA,0,0,0,,哼。
-Dialogue: 0,0:12:50.35,0:13:00.35,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:13:49.00,0:13:59.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:13:50.05,0:13:53.68,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
 Dialogue: 0,0:13:54.18,0:13:57.81,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
 Dialogue: 0,0:13:58.52,0:14:01.77,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
