@@ -27,6 +27,7 @@ Style: CreditInfo,Noto Sans SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:25.00,0:01:33.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:01:35.20,0:01:37.95,Signs,SIGN,0,0,0,,{\fad(478,1)\fs22\fnVerdana\c&H1F2029&\3c&HF0F0F0&\bord2\b0\pos(320,138)}June 20
 Dialogue: 0,0:01:37.95,0:01:39.73,Default,SASAKI,0,0,0,,好的好的。
 Dialogue: 0,0:01:41.04,0:01:42.93,Default,SASAKI,0,0,0,,好的没问题。
