@@ -28,12 +28,12 @@ Style: CreditInfo,Noto Sans SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:31.00,0:02:38.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
-Dialogue: 0,0:00:06.47,0:00:08.24,Default,SUZUKI,0,0,0,,你看起来像个化石
+Dialogue: 0,0:00:06.47,0:00:08.24,Default,SUZUKI,0,0,0,,你看起来像个化石。
 Dialogue: 0,0:00:08.24,0:00:09.12,Default,SASAKI,0,0,0,,嗯？
-Dialogue: 0,0:00:09.74,0:00:12.88,Default,SUZUKI,0,0,0,,拿着报纸戴老花镜
+Dialogue: 0,0:00:09.74,0:00:12.88,Default,SUZUKI,0,0,0,,拿着报纸戴老花镜。
 Dialogue: 0,0:00:13.47,0:00:16.19,Default,SASAKI,0,0,0,,这就是大爷的领域吗？
-Dialogue: 0,0:00:16.19,0:00:19.00,Default,SUZUKI,0,0,0,,这个年代手机上就能看报纸
-Dialogue: 0,0:00:19.31,0:00:21.75,Default,SUZUKI,0,0,0,,赶紧换智能手机吧
+Dialogue: 0,0:00:16.19,0:00:19.00,Default,SUZUKI,0,0,0,,这个年代手机上就能看报纸。
+Dialogue: 0,0:00:19.31,0:00:21.75,Default,SUZUKI,0,0,0,,赶紧换智能手机吧。
 Dialogue: 0,0:00:21.75,0:00:23.75,Signs,SIGN,0,0,0,,{\fs10\fax-0.15\c&HF2F2F3&\pos(320,10)}Wife
 Dialogue: 0,0:00:21.75,0:00:23.75,Signs,SIGN,0,0,0,,{\fs12\fax-0.1\c&H71716E&\b0\pos(332.6,47.87)}Omw home
 Dialogue: 0,0:00:21.75,0:00:23.75,Signs,SIGN,0,0,0,,{\fs12\fax-0.1\c&H71716E&\b0\pos(266.666,91.066)}Okay!
@@ -42,23 +42,23 @@ Dialogue: 0,0:00:21.75,0:00:23.75,Signs,SIGN,0,0,0,,{\fs10\b0\fax-0.1\c&HF2F2F3&
 Dialogue: 0,0:00:21.75,0:00:23.75,Signs,SIGN,0,0,0,,{\bord2\fs12\fax-0.1\c&H71716E&\b0\3c&HE9E9E8&\pos(334.399,292.666)}Today's lunch looks amazing
 Dialogue: 1,0:00:21.75,0:00:23.17,Default,SUZUKI,0,0,0,,看到了吗？
 Dialogue: 0,0:00:25.23,0:00:27.63,Default,SASAKI,0,0,0,,智能手机啊……
-Dialogue: 0,0:00:28.74,0:00:31.51,Default,SUZUKI,0,0,0,,你得用OINE\N用不了太坑了
-Dialogue: 0,0:00:31.82,0:00:34.51,Default,SUZUKI,0,0,0,,还能看报纸和最新新闻
-Dialogue: 0,0:00:35.63,0:00:39.54,Default,SASAKI,0,0,0,,但我的手机还好好的啊
+Dialogue: 0,0:00:28.74,0:00:31.51,Default,SUZUKI,0,0,0,,你得用OINE\N用不了太坑了。
+Dialogue: 0,0:00:31.82,0:00:34.51,Default,SUZUKI,0,0,0,,还能看报纸和最新新闻。
+Dialogue: 0,0:00:35.63,0:00:39.54,Default,SASAKI,0,0,0,,但我的手机还好好的啊！
 Dialogue: 0,0:00:39.54,0:00:40.27,Default,SASAKI,0,0,0,,嗯？
-Dialogue: 0,0:00:42.63,0:00:43.36,Default,SUZUKI,0,0,0,,真好
+Dialogue: 0,0:00:42.63,0:00:43.36,Default,SUZUKI,0,0,0,,真好。
 Dialogue: 0,0:00:44.66,0:00:45.96,Default,SASAKI,0,0,0,,等等什么？
-Dialogue: 0,0:00:45.96,0:00:48.61,Default,SASAKI,0,0,0,,奇怪，屏幕打不开
+Dialogue: 0,0:00:45.96,0:00:48.61,Default,SASAKI,0,0,0,,奇怪，屏幕打不开。
 Dialogue: 0,0:00:51.24,0:00:52.78,Default,SASAKI,0,0,0,,什么？
-Dialogue: 0,0:00:53.68,0:00:55.80,Default,SASAKI,0,0,0,,得拿去修
-Dialogue: 0,0:00:55.80,0:01:00.03,Default,SUZUKI,0,0,0,,别傻了现在没人会修那种古董
-Dialogue: 0,0:01:00.63,0:01:02.67,Default,SUZUKI,0,0,0,,放弃吧去买个智能手机
+Dialogue: 0,0:00:53.68,0:00:55.80,Default,SASAKI,0,0,0,,得拿去修。
+Dialogue: 0,0:00:55.80,0:01:00.03,Default,SUZUKI,0,0,0,,别傻了现在没人会修那种古董。
+Dialogue: 0,0:01:00.63,0:01:02.67,Default,SUZUKI,0,0,0,,放弃吧去买个智能手机。
 Dialogue: 0,0:01:05.19,0:01:05.96,Default,SUZUKI,0,0,0,,好好吃！
-Dialogue: 0,0:02:53.02,0:02:56.57,DefaultItalics,SASAKI,0,0,0,,我去买了个智能手机\N但完全搞不懂
-Dialogue: 0,0:02:57.74,0:03:01.22,DefaultItalics,SASAKI,0,0,0,,等等这个能看报纸啊
+Dialogue: 0,0:02:53.02,0:02:56.57,DefaultItalics,SASAKI,0,0,0,,我去买了个智能手机\N但完全搞不懂。
+Dialogue: 0,0:02:57.74,0:03:01.22,DefaultItalics,SASAKI,0,0,0,,等等这个能看报纸啊。
 Dialogue: 0,0:03:01.78,0:03:03.50,DefaultItalics,SASAKI,0,0,0,,怎么看？
-Dialogue: 0,0:02:57.74,0:03:03.50,Signs,TAYAMA,0,0,0,,{\an9\fs14\bord2\c&HFEF6F3&\3c&H82382E&}Get the app now!
-Dialogue: 0,0:03:04.44,0:03:06.82,DefaultItalics,SASAKI,0,0,0,,那我试试
+Dialogue: 0,0:02:57.74,0:03:03.50,Signs,TAYAMA,0,0,0,,Get the app now!。
+Dialogue: 0,0:03:04.44,0:03:06.82,DefaultItalics,SASAKI,0,0,0,,那我试试。
 Dialogue: 0,0:03:08.79,0:03:10.21,Signs,SIGN,0,0,0,,{\fad(191,186)\an7\fs12\bord2\3c&H4889D9&\pos(101.5,249.5)}Novice Users Targeted\N{\c&H727A97&\3c&HFAF8FB&}Personal Info Stolen from Smartphones
 Dialogue: 0,0:03:08.79,0:03:10.21,Signs,SIGN,0,0,0,,{\fad(191,186)\an9\fs10\bord2\c&H727A97&\3c&HFAF8FB&\pos(303.5,230)}Details of 15,000 people stolen
 Dialogue: 0,0:03:10.80,0:03:12.46,Signs,SIGN,0,0,0,,{\fs16\fad(183,184)\bord2\fnComic Sans MS\c&H4D4D4D&\3c&HEBEBE9&\b0\pos(160.5,77.5)}Important
@@ -66,22 +66,22 @@ Dialogue: 0,0:03:10.80,0:03:12.46,Signs,SIGN,0,0,0,,{\fs16\fad(183,184)\bord2\fn
 Dialogue: 0,0:03:10.80,0:03:12.46,Signs,SIGN,0,0,0,,{\fs16\fad(183,184)\bord2\fnComic Sans MS\c&H6B6B6B&\3c&HEBEBE9&\b0\pos(304,263.5)}Pay up right now
 Dialogue: 0,0:03:12.80,0:03:14.76,Signs,SIGN,0,0,0,,{\fad(185,1)\fs10\fnComic Sans MS\c&H565656&\b0\frz19.93\fax0.1\pos(134,168)}Smartphone\N\hOver
 Dialogue: 0,0:03:12.80,0:03:14.76,Signs,SIGN,0,0,0,,{\fad(185,1)\fscx90\fs10\fnComic Sans MS\c&H565656&\b0\frz23.36\fax0.1\pos(173.5,229.5)}Virus =\NVery Infected
-Dialogue: 0,0:03:16.55,0:03:18.58,DefaultItalics,SASAKI,0,0,0,,不行没勇气
+Dialogue: 0,0:03:16.55,0:03:18.58,DefaultItalics,SASAKI,0,0,0,,不行没勇气。
 Dialogue: 0,0:03:20.21,0:03:21.26,DefaultItalics,SASAKI,0,0,0,,嗯？
 Dialogue: 0,0:03:21.93,0:03:23.27,DefaultItalics,SASAKI,0,0,0,,等等什么？
 Dialogue: 0,0:03:23.69,0:03:25.56,DefaultItalics,SASAKI,0,0,0,,这个画面是什么？
 Dialogue: 0,0:03:25.56,0:03:28.26,DefaultItalics,SASAKI,0,0,0,,怎么回到上个画面？
 Dialogue: 0,0:03:45.20,0:03:47.38,Default,TAYAMA,0,0,0,,教你用智能手机？
-Dialogue: 0,0:03:47.81,0:03:50.67,Default,TAYAMA,0,0,0,,都不知道你还在用翻盖机
-Dialogue: 0,0:03:50.67,0:03:52.58,Default,SASAKI,0,0,0,,哦是的
-Dialogue: 0,0:03:55.05,0:03:56.48,Default,TAYAMA,0,0,0,,真像你
+Dialogue: 0,0:03:47.81,0:03:50.67,Default,TAYAMA,0,0,0,,都不知道你还在用翻盖机。
+Dialogue: 0,0:03:50.67,0:03:52.58,Default,SASAKI,0,0,0,,哦是的。
+Dialogue: 0,0:03:55.05,0:03:56.48,Default,TAYAMA,0,0,0,,真像你。
 Dialogue: 0,0:03:56.48,0:03:57.56,DefaultItalics,SASAKI,0,0,0,,像我？
 Dialogue: 0,0:03:59.05,0:04:01.23,Default,SASAKI,0,0,0,,拜托了田山老师！
-Dialogue: 0,0:04:01.65,0:04:03.62,Default,TAYAMA,0,0,0,,行我教你
+Dialogue: 0,0:04:01.65,0:04:03.62,Default,TAYAMA,0,0,0,,行我教你。
 Dialogue: 0,0:04:03.62,0:04:05.56,Default,SASAKI,0,0,0,,真的？谢谢！
 Dialogue: 0,0:04:05.56,0:04:08.01,Default,TAYAMA,0,0,0,,那你有什么搞不定的？
 Dialogue: 0,0:04:08.01,0:04:09.19,Default,SASAKI,0,0,0,,那个……
-Dialogue: 0,0:04:09.56,0:04:14.33,Default,SASAKI,0,0,0,,说出来丢人\N我连基本操作都不会
+Dialogue: 0,0:04:09.56,0:04:14.33,Default,SASAKI,0,0,0,,说出来丢人\N我连基本操作都不会。
 Dialogue: 0,0:04:15.57,0:04:15.86,Signs,SIGN,0,0,0,,{\an7\fs30\bord1.5\fnArial Black\c&HBB0010&\3c&H490906&\frz14.47\pos(90,144)}stare ->
 Dialogue: 0,0:04:15.86,0:04:16.15,Signs,SIGN,0,0,0,,{\an7\fs30\bord1.5\fnArial Black\c&HBB0010&\3c&H490906&\frz14.47\pos(90,144)}staare ->
 Dialogue: 0,0:04:16.15,0:04:16.44,Signs,SIGN,0,0,0,,{\an7\fs30\bord1.5\fnArial Black\c&HBB0010&\3c&H490906&\frz14.47\pos(90,144)}staaare ->
@@ -93,81 +93,81 @@ Dialogue: 0,0:04:17.61,0:04:17.90,Signs,SIGN,0,0,0,,{\an7\fs30\bord1.5\fnArial B
 Dialogue: 0,0:04:17.90,0:04:18.19,Signs,SIGN,0,0,0,,{\an7\fs30\bord1.5\fnArial Black\c&HBB0010&\3c&H490906&\frz14.47\pos(90,144)}staaaaaaaaare ->
 Dialogue: 0,0:04:18.19,0:04:18.57,Signs,SIGN,0,0,0,,{\an7\fs30\bord1.5\fnArial Black\c&HBB0010&\3c&H490906&\frz14.47\pos(90,144)}staaaaaaaaaare ->
 Dialogue: 0,0:04:19.31,0:04:20.59,Default,SASAKI,0,0,0,,田山小姐？
-Dialogue: 0,0:04:21.46,0:04:23.08,Default,TAYAMA,0,0,0,,基本操作是吧
-Dialogue: 0,0:04:23.39,0:04:26.86,Default,TAYAMA,0,0,0,,好，我教你有用的功能
-Dialogue: 0,0:04:27.73,0:04:29.08,Default,SASAKI,0,0,0,,拜托了
-Dialogue: 0,0:04:30.57,0:04:32.84,Default,TAYAMA,0,0,0,,从最基础的开始
-Dialogue: 0,0:04:33.25,0:04:37.30,Default,TAYAMA,0,0,0,,回主屏幕你肯定懂\N跳过
+Dialogue: 0,0:04:21.46,0:04:23.08,Default,TAYAMA,0,0,0,,基本操作是吧。
+Dialogue: 0,0:04:23.39,0:04:26.86,Default,TAYAMA,0,0,0,,好，我教你有用的功能。
+Dialogue: 0,0:04:27.73,0:04:29.08,Default,SASAKI,0,0,0,,拜托了。
+Dialogue: 0,0:04:30.57,0:04:32.84,Default,TAYAMA,0,0,0,,从最基础的开始。
+Dialogue: 0,0:04:33.25,0:04:37.30,Default,TAYAMA,0,0,0,,回主屏幕你肯定懂\N跳过。
 Dialogue: 0,0:04:37.30,0:04:40.58,Default,SASAKI,0,0,0,,那个能不能也教一下……
-Dialogue: 0,0:04:46.04,0:04:48.20,Default,TAYAMA,0,0,0,,智能手机用滑动输入
-Dialogue: 0,0:04:48.20,0:04:52.31,Default,TAYAMA,0,0,0,,按屏幕上的键然后\N咻地滑到要输入的字母
-Dialogue: 0,0:04:52.31,0:04:54.77,Default,SASAKI,0,0,0,,咻？好的
+Dialogue: 0,0:04:46.04,0:04:48.20,Default,TAYAMA,0,0,0,,智能手机用滑动输入。
+Dialogue: 0,0:04:48.20,0:04:52.31,Default,TAYAMA,0,0,0,,按屏幕上的键然后\N咻地滑到要输入的字母。
+Dialogue: 0,0:04:52.31,0:04:54.77,Default,SASAKI,0,0,0,,咻？好的。
 Dialogue: 0,0:04:55.11,0:04:55.48,Signs,SIGN,0,0,0,,{\fs12\c&H636363&\frz-12.38\pos(297,276.5)}ka
 Dialogue: 0,0:04:58.69,0:05:00.73,Signs,SIGN,0,0,0,,{\fs12\t(193,276,\c&H636363&)\frz-12.38\pos(297,276.5)}ka
 Dialogue: 0,0:04:55.57,0:04:58.95,Signs,SIGN,0,0,0,,{\fad(101,67)\fs12\c&H636363&\pos(313,210)\frz349}ku
 Dialogue: 0,0:04:55.57,0:04:58.95,Signs,SIGN,0,0,0,,{\fad(101,67)\fs12\c&H636363&\frz349\pos(349.5,261)}ke
 Dialogue: 0,0:04:55.57,0:04:58.95,Signs,SIGN,0,0,0,,{\fad(101,67)\fs12\c&H636363&\frz349\pos(294,291.5)}ko
-Dialogue: 0,0:04:55.37,0:04:57.37,Default,SASAKI,0,0,0,,来打「ko」
+Dialogue: 0,0:04:55.37,0:04:57.37,Default,SASAKI,0,0,0,,来打「ko」。
 Dialogue: 0,0:04:57.37,0:04:58.19,Default,SASAKI,0,0,0,,咻……
 Dialogue: 0,0:04:58.90,0:05:00.74,Signs,SIGN,0,0,0,,{\fad(66,1)\fs14\c&H5B5B5B&\frz-12.38\pos(257,77)}Ka
 Dialogue: 0,0:04:59.62,0:05:00.74,Default,SASAKI,0,0,0,,等等不——！
 Dialogue: 0,0:05:03.37,0:05:05.49,Default,SASAKI,0,0,0,,这不是我要的！
 Dialogue: 0,0:05:08.61,0:05:10.65,Default,TAYAMA,0,0,0,,换种输入法？
-Dialogue: 0,0:05:11.16,0:05:12.41,Default,SASAKI,0,0,0,,好的拜托了
-Dialogue: 0,0:05:13.26,0:05:17.76,Default,SASAKI,0,0,0,,对了我想试试在手机上看报纸
-Dialogue: 0,0:05:17.76,0:05:19.56,Default,TAYAMA,0,0,0,,可以啊
+Dialogue: 0,0:05:11.16,0:05:12.41,Default,SASAKI,0,0,0,,好的拜托了。
+Dialogue: 0,0:05:13.26,0:05:17.76,Default,SASAKI,0,0,0,,对了我想试试在手机上看报纸。
+Dialogue: 0,0:05:17.76,0:05:19.56,Default,TAYAMA,0,0,0,,可以啊。
 Dialogue: 0,0:05:19.56,0:05:20.33,Default,SASAKI,0,0,0,,真的？
-Dialogue: 0,0:05:20.76,0:05:25.76,Default,TAYAMA,0,0,0,,先打开应用商店安装报纸的App
-Dialogue: 0,0:05:26.41,0:05:29.44,Default,TAYAMA,0,0,0,,主屏幕上应该能找到
-Dialogue: 0,0:05:29.44,0:05:33.52,Default,TAYAMA,0,0,0,,但要注册账号才能用
-Dialogue: 0,0:05:33.82,0:05:36.53,Default,TAYAMA,0,0,0,,注册完登录
-Dialogue: 0,0:05:36.53,0:05:38.42,Default,TAYAMA,0,0,0,,再安装报纸的App
-Dialogue: 0,0:05:38.42,0:05:41.64,Default,TAYAMA,0,0,0,,那个也得注册账号
+Dialogue: 0,0:05:20.76,0:05:25.76,Default,TAYAMA,0,0,0,,先打开应用商店安装报纸的App。
+Dialogue: 0,0:05:26.41,0:05:29.44,Default,TAYAMA,0,0,0,,主屏幕上应该能找到。
+Dialogue: 0,0:05:29.44,0:05:33.52,Default,TAYAMA,0,0,0,,但要注册账号才能用。
+Dialogue: 0,0:05:33.82,0:05:36.53,Default,TAYAMA,0,0,0,,注册完登录。
+Dialogue: 0,0:05:36.53,0:05:38.42,Default,TAYAMA,0,0,0,,再安装报纸的App。
+Dialogue: 0,0:05:38.42,0:05:41.64,Default,TAYAMA,0,0,0,,那个也得注册账号。
 Dialogue: 0,0:05:36.82,0:05:38.15,Signs,SIGN,0,0,0,,{\fad(226,1)\bord2\fs12\c&H2C2D31&\3c&H979797&\frz13.33\fax-0.4\pos(569,303)}Manual
-Dialogue: 0,0:05:48.21,0:05:50.87,Default,TAYAMA,0,0,0,,算了，我帮你装
-Dialogue: 0,0:05:50.87,0:05:52.19,Default,SASAKI,0,0,0,,对不起谢谢
+Dialogue: 0,0:05:48.21,0:05:50.87,Default,TAYAMA,0,0,0,,算了，我帮你装。
+Dialogue: 0,0:05:50.87,0:05:52.19,Default,SASAKI,0,0,0,,对不起谢谢。
 Dialogue: 0,0:05:55.04,0:05:56.46,Signs,SIGN,0,0,0,,{\fad(1,145)\fax0.1\fs10\fnTimes New Roman\c&H9A9A9A&\frz0.42\pos(242.5,52)}EIHO
-Dialogue: 0,0:05:57.93,0:06:02.78,Default,SASAKI,0,0,0,,田山小姐最好了\N这下应该能像旧手机一样用了
-Dialogue: 0,0:06:06.67,0:06:10.43,Default,TAYAMA,0,0,0,,慢慢用就习惯了
+Dialogue: 0,0:05:57.93,0:06:02.78,Default,SASAKI,0,0,0,,田山小姐最好了\N这下应该能像旧手机一样用了。
+Dialogue: 0,0:06:06.67,0:06:10.43,Default,TAYAMA,0,0,0,,慢慢用就习惯了。
 Dialogue: 0,0:06:10.43,0:06:15.14,Default,SASAKI,0,0,0,,抱歉还能再问件事吗？
 Dialogue: 0,0:06:15.14,0:06:16.19,Default,TAYAMA,0,0,0,,嗯？
 Dialogue: 0,0:06:16.71,0:06:19.80,Default,SASAKI,0,0,0,,能把字体调大吗？
 Dialogue: 0,0:06:20.19,0:06:22.04,Default,TAYAMA,0,0,0,,啥……
 Dialogue: 0,0:06:22.04,0:06:23.45,Default,SASAKI,0,0,0,,嗯？
 Dialogue: 0,0:06:23.75,0:06:27.97,Default,TAYAMA,0,0,0,,你连智能手机都不会用\N怎么知道能调字体？
-Dialogue: 0,0:06:27.97,0:06:30.66,Default,SASAKI,0,0,0,,翻盖机也能调啊
+Dialogue: 0,0:06:27.97,0:06:30.66,Default,SASAKI,0,0,0,,翻盖机也能调啊。
 Dialogue: 0,0:06:34.85,0:06:37.03,Default,SASAKI,0,0,0,,有、有问题吗？
 Dialogue: 0,0:06:37.03,0:06:38.64,Default,TAYAMA,0,0,0,,那个……
 Dialogue: 0,0:06:40.89,0:06:44.22,DefaultItalics,SASAKI,0,0,0,,改那个设置很麻烦吗？
 Dialogue: 0,0:06:58.22,0:07:00.87,Default,TAYAMA,0,0,0,,帮你弄倒是没问题……
-Dialogue: 0,0:07:20.43,0:07:22.78,Default,TAYAMA,0,0,0,,但你不准不戴老花镜
-Dialogue: 0,0:07:23.94,0:07:25.34,Default,SASAKI,0,0,0,,好的
-Dialogue: 0,0:07:25.34,0:07:27.05,Default,TAYAMA,0,0,0,,给我我帮你调
-Dialogue: 0,0:07:32.83,0:07:37.02,Default,TAYAMA,0,0,0,,对了佐佐木先生\N为了庆祝你加入智能手机一族
+Dialogue: 0,0:07:20.43,0:07:22.78,Default,TAYAMA,0,0,0,,但你不准不戴老花镜。
+Dialogue: 0,0:07:23.94,0:07:25.34,Default,SASAKI,0,0,0,,好的。
+Dialogue: 0,0:07:25.34,0:07:27.05,Default,TAYAMA,0,0,0,,给我我帮你调。
+Dialogue: 0,0:07:32.83,0:07:37.02,Default,TAYAMA,0,0,0,,对了佐佐木先生\N为了庆祝你加入智能手机一族。
 Dialogue: 0,0:07:37.44,0:07:39.85,Default,TAYAMA,0,0,0,,我把山田小姐的号码给你吧？
 Dialogue: 0,0:07:39.85,0:07:41.78,Default,SASAKI,0,0,0,,不不不不用了！
-Dialogue: 0,0:07:43.46,0:07:45.03,Default,SASAKI,0,0,0,,别这样田山小姐
+Dialogue: 0,0:07:43.46,0:07:45.03,Default,SASAKI,0,0,0,,别这样田山小姐。
 Dialogue: 0,0:07:45.31,0:07:48.08,Default,SASAKI,0,0,0,,侵犯隐私而且……
 Dialogue: 0,0:07:48.08,0:07:50.06,Default,SASAKI,0,0,0,,那可是山田小姐啊！
-Dialogue: 0,0:07:50.06,0:07:50.91,Default,TAYAMA,0,0,0,,迟了
-Dialogue: 0,0:07:51.29,0:07:52.56,Default,TAYAMA,0,0,0,,已经存进去了
+Dialogue: 0,0:07:50.06,0:07:50.91,Default,TAYAMA,0,0,0,,迟了。
+Dialogue: 0,0:07:51.29,0:07:52.56,Default,TAYAMA,0,0,0,,已经存进去了。
 Dialogue: 0,0:07:56.73,0:07:57.92,Default,SASAKI,0,0,0,,你怎么能……
 Dialogue: 0,0:07:58.46,0:07:59.82,Default,SASAKI,0,0,0,,田山小姐？
-Dialogue: 0,0:08:02.06,0:08:03.77,Default,TAYAMA,0,0,0,,开玩笑的
+Dialogue: 0,0:08:02.06,0:08:03.77,Default,TAYAMA,0,0,0,,开玩笑的。
 Dialogue: 0,0:08:03.77,0:08:04.94,Default,SASAKI,0,0,0,,啊！
-Dialogue: 0,0:08:04.94,0:08:06.68,Default,TAYAMA,0,0,0,,好了搞定了
+Dialogue: 0,0:08:04.94,0:08:06.68,Default,TAYAMA,0,0,0,,好了搞定了。
 Dialogue: 0,0:08:07.59,0:08:08.76,Default,SASAKI,0,0,0,,田山小姐！
-Dialogue: 0,0:08:08.76,0:08:10.91,Default,TAYAMA,0,0,0,,好了现在好读多了
-Dialogue: 0,0:08:10.91,0:08:12.47,Default,SASAKI,0,0,0,,哦谢谢
+Dialogue: 0,0:08:08.76,0:08:10.91,Default,TAYAMA,0,0,0,,好了现在好读多了。
+Dialogue: 0,0:08:10.91,0:08:12.47,Default,SASAKI,0,0,0,,哦谢谢。
 Dialogue: 0,0:08:12.47,0:08:14.03,Default,SASAKI,0,0,0,,等等不——！
-Dialogue: 0,0:08:14.03,0:08:15.85,Default,TAYAMA,0,0,0,,哎呀好吓人
+Dialogue: 0,0:08:14.03,0:08:15.85,Default,TAYAMA,0,0,0,,哎呀好吓人。
 Dialogue: 0,0:08:17.48,0:08:19.98,Signs,SIGN,0,0,0,,{\fs15\bord2\c&HC1DFFF&\3c&H4740D5&\frz2.49\fax-0.07\pos(93.5,120.5)}24-Hour
 Dialogue: 0,0:08:17.48,0:08:19.98,Signs,SIGN,0,0,0,,{\fnArial Black\bord2\c&H493DD6&\3c&HCAE3F8&\4c&H85634B&\shad2\frz2.192\fax-0.05\pos(291.5,91)}Supermarket S
-Dialogue: 0,0:08:24.68,0:08:27.29,Default,OHNO,0,0,0,,哟山田酱
+Dialogue: 0,0:08:24.68,0:08:27.29,Default,OHNO,0,0,0,,哟山田酱。
 Dialogue: 0,0:08:27.29,0:08:28.99,Default,YAMADA,0,0,0,,怎么了？
 Dialogue: 0,0:09:15.17,0:09:17.79,Default,YAMADA,0,0,0,,好了今天有什么？
-Dialogue: 0,0:09:24.43,0:09:27.49,Default,YAMADA,0,0,0,,他不知道我偷拍了一张
-Dialogue: 0,0:09:28.55,0:09:32.55,Default,YAMADA,0,0,0,,好了该上班了
+Dialogue: 0,0:09:24.43,0:09:27.49,Default,YAMADA,0,0,0,,他不知道我偷拍了一张。
+Dialogue: 0,0:09:28.55,0:09:32.55,Default,YAMADA,0,0,0,,好了该上班了。
 Dialogue: 0,0:09:38.05,0:09:41.68,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
 Dialogue: 0,0:09:42.18,0:09:45.81,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
 Dialogue: 0,0:09:46.52,0:09:49.77,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
