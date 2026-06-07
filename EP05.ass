@@ -139,7 +139,7 @@ Dialogue: 0,0:09:36.51,0:09:38.52,Default,SASAKI,0,0,0,,田山小姐，晚——
 Dialogue: 0,0:09:38.52,0:09:39.40,Default,GOTOU,0,0,0,,嗯？
 Dialogue: 0,0:09:40.87,0:09:42.77,DefaultItalics,SASAKI,0,0,0,,什么？！
 Dialogue: 0,0:09:42.77,0:09:47.02,DefaultItalics,SASAKI,0,0,0,,是、是另一个店员？！
-Dialogue: 0,0:09:51.52,0:10:01.52,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
+Dialogue: 0,0:08:47.94,0:08:57.94,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:09:47.64,0:09:51.27,Credits,CREDITS,0,0,0,,Translation: Sriram Gurunathan
 Dialogue: 0,0:09:51.77,0:09:55.40,Credits,CREDITS,0,0,0,,Editing & Typesetting: Geoff Mazzolini\NSubtitle Timing: Krzysztof Kunc
 Dialogue: 0,0:09:56.11,0:09:59.36,Credits,CREDITS,0,0,0,,Quality Check: Zachary Carlysle\NTranslation Check: Sho Stifler
