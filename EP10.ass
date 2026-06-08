@@ -32,7 +32,7 @@ Dialogue: 0,0:01:35.20,0:01:37.95,Signs,SIGN,0,0,0,,{\fad(478,1)\fs22\fnVerdana\
 Dialogue: 0,0:01:37.95,0:01:39.73,Default,SASAKI,0,0,0,,好的，好的。
 Dialogue: 0,0:01:41.04,0:01:42.93,Default,SASAKI,0,0,0,,好的，没问题。
 Dialogue: 0,0:01:42.93,0:01:44.83,Default,SASAKI,0,0,0,,今晚就发过去！
-Dialogue: 0,0:01:46.53,0:01:50.86,Default,SASAKI,0,0,0,,是的真的抱歉希望您继续——
+Dialogue: 0,0:01:46.53,0:01:50.86,Default,SASAKI,0,0,0,,是的，真的抱歉，希望您继续——
 Dialogue: 0,0:01:55.59,0:02:00.35,Signs,SIGN,0,0,0,,{\fad(1,732)\fnNoto Sans SC\fs20\bord3\c&H4B4942&\3c&HDBDCD3&\frz2.76\fax-0.05\pos(214,20.5)}Schedule
 Dialogue: 0,0:01:55.59,0:02:00.35,Signs,SIGN,0,0,0,,{\fad(1,732)\fnNoto Sans SC\fs14\bord3\c&H4B4942&\3c&HDBDCD3&\frz2.76\fax-0.05\pos(226.5,56.5)}Name           Destination         Returning By
 Dialogue: 0,0:01:55.59,0:02:00.35,Signs,SIGN,0,0,0,,{\fad(1,732)\an9\fnNoto Sans SC\fs15.2\bord3\c&H4B4942&\3c&HDBDCD3&\fax-0.05\pos(84,85.5)\frz0.7267}Chief\N\N\NSuzuki\N\N\NSasaki\N\N\NIshida\N\N\NWatanabe\N\N\NItou\N\N\NYamamoto\N\N\NTakahashi\N\N\NMori
@@ -65,7 +65,7 @@ Dialogue: 0,0:03:27.44,0:03:31.44,Signs,SIGN,0,0,0,,{\bord2\fs9\b0\frz17.35\pos(
 Dialogue: 0,0:03:27.44,0:03:30.81,Signs,SIGN,0,0,0,,{\bord2\fs8\b0\frz17.35\3c&H676767&\pos(200.5,283)}Stop
 Dialogue: 0,0:03:38.11,0:03:40.20,Signs,SIGN,0,0,0,,{\fad(315,1)\fs22\fnVerdana\c&H1F2029&\3c&HF0F0F0&\bord2\b0\pos(320,138)}June 21
 Dialogue: 0,0:03:48.38,0:03:49.34,Default,SASAKI,0,0,0,,嗯？
-Dialogue: 0,0:03:56.35,0:03:58.08,Default,SASAKI,0,0,0,,靠抽完了。
+Dialogue: 0,0:03:56.35,0:03:58.08,Default,SASAKI,0,0,0,,靠，抽完了。
 Dialogue: 0,0:03:58.47,0:04:01.22,Signs,SIGN,0,0,0,,{\fs14\bord2\fnTimes New Roman\c&H7A7B75&\3c&HC1C1BA&\move(422,67,422,101,17,2728)}Genki Trading
 Dialogue: 0,0:04:01.87,0:04:03.92,DefaultItalics,SASAKI,0,0,0,,今天要做订单表。
 Dialogue: 0,0:04:03.92,0:04:07.28,DefaultItalics,SASAKI,0,0,0,,去打个招呼给新供应商然后……
@@ -185,7 +185,7 @@ Dialogue: 0,0:11:51.38,0:11:53.03,Default,YAMADA,0,0,0,,好吧我走。
 Dialogue: 0,0:11:57.68,0:12:03.28,DefaultItalics,TAYAMA,0,0,0,,早点说的话回家路上还能去吃碗拉面.。
 Dialogue: 0,0:12:03.84,0:12:05.39,DefaultItalics,TAYAMA,0,0,0,,懒得化妆了。
 Dialogue: 0,0:12:05.39,0:12:08.79,DefaultItalics,TAYAMA,0,0,0,,买点酒后面抽根烟回家睡觉。
-Dialogue: 0,0:12:09.29,0:12:11.23,DefaultItalics,TAYAMA,0,0,0,,真不巧佐佐木先生。
+Dialogue: 0,0:12:09.29,0:12:11.23,DefaultItalics,TAYAMA,0,0,0,,真不巧，佐佐木先生。
 Dialogue: 0,0:12:11.23,0:12:14.10,DefaultItalics,TAYAMA,0,0,0,,山田小姐今晚不在哦。
 Dialogue: 0,0:12:16.56,0:12:17.80,DefaultItalics,TAYAMA,0,0,0,,说曹操曹操到。
 Dialogue: 0,0:12:19.01,0:12:21.25,DefaultItalics,TAYAMA,0,0,0,,他今天正常下班了？
@@ -201,7 +201,7 @@ Dialogue: 0,0:12:44.57,0:12:46.29,Default,YAMADA,0,0,0,,你没事吧？
 Dialogue: 0,0:12:46.45,0:12:47.95,Signs,SIGN,0,0,0,,{\fs18\bord2\fnComic Sans MS\c&H093BDB&\3c&H000751&\pos(221,215)}Satisfaction 100%
 Dialogue: 0,0:12:48.20,0:12:52.70,Default,SASAKI,0,0,0,,没没事走神不小心掉了。
 Dialogue: 0,0:12:54.71,0:12:56.04,DefaultItalics,SASAKI,0,0,0,,她穿私服？
-Dialogue: 0,0:12:56.04,0:12:59.09,DefaultItalics,SASAKI,0,0,0,,能看到山田小姐穿便服我可以治愈吗？
+Dialogue: 0,0:12:56.04,0:12:59.09,DefaultItalics,SASAKI,0,0,0,,看到山田小姐穿便服，我感觉被治愈了。
 Dialogue: 0,0:12:59.77,0:13:02.04,DefaultItalics,SASAKI,0,0,0,,不行不准盯着看。
 Dialogue: 0,0:13:02.04,0:13:04.57,DefaultItalics,SASAKI,0,0,0,,自然点谁都有私服。
 Dialogue: 0,0:13:04.57,0:13:06.20,DefaultItalics,SASAKI,0,0,0,,连我都穿！

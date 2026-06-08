@@ -30,7 +30,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:32.95,0:01:35.70,Signs,SIGN,0,0,0,,{\bord2\fs18\fnTimes New Roman\c&H5D86A1&\3c&HBFE8FD&}Genki Trading
 Dialogue: 0,0:01:25.00,0:01:33.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
 Dialogue: 0,0:01:36.03,0:01:39.12,Default,EMPLOYEE F,0,0,0,,今天又要开到半夜了吧。
-Dialogue: 0,0:01:39.12,0:01:43.33,Default,SUZUKI,0,0,0,,真希望有人炸一下把会搅黄了。
+Dialogue: 0,0:01:39.12,0:01:43.33,Default,SUZUKI,0,0,0,,真希望有人搞个爆炸把会给搅黄了。
 Dialogue: 0,0:01:44.25,0:01:46.46,Default,EMPLOYEE F,0,0,0,,开会到底算啥\N我已经搞不懂了。
 Dialogue: 0,0:01:48.25,0:01:51.47,DefaultItalics,SASAKI,0,0,0,,连续开会开得\N大家都快疯了。
 Dialogue: 0,0:01:53.59,0:01:55.93,DefaultItalics,SASAKI,0,0,0,,老实说我也是。
