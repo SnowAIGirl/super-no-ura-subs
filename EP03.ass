@@ -49,7 +49,7 @@ Dialogue: 0,0:00:57.41,0:01:01.67,Signs,SIGN,0,0,0,,{\an9\bord1\blur1\p1\c&HF8FB
 Dialogue: 1,0:00:57.41,0:01:01.67,Signs,SIGN,0,0,0,,{\an9\fnComic Sans MS\c&H7C7A8A&\b0\pos(555.5,12.5)}What Usually Happens
 Dialogue: 0,0:00:57.41,0:01:00.06,Default,SASAKI,0,0,0,,哇，积分攒了好多。
 Dialogue: 0,0:01:00.06,0:01:01.67,Default,SASAKI,0,0,0,,非常感谢！
-Dialogue: 0,0:01:02.15,0:01:05.66,Default,YAMADA,0,0,0,,我的服务没能奏效。
+Dialogue: 0,0:01:02.15,0:01:05.66,Default,YAMADA,0,0,0,,我服务得不够好。
 Dialogue: 0,0:01:05.66,0:01:06.81,Default,OHNO,0,0,0,,哪方面？
 Dialogue: 0,0:01:11.63,0:01:14.55,DefaultItalics,SASAKI,0,0,0,,好想抽烟啊！
 Dialogue: 0,0:01:15.08,0:01:17.34,Flashback,TAYAMA,0,0,0,,欢迎下次再来，佐佐木先生。
@@ -110,21 +110,21 @@ Dialogue: 0,0:06:13.78,0:06:15.43,Flashback,SASAKI,0,0,0,,非常抱歉！
 Dialogue: 0,0:06:15.43,0:06:18.68,Flashback,STAFF A,0,0,0,,佐佐木先生被狠狠训了一顿。
 Dialogue: 0,0:06:18.68,0:06:20.42,Flashback,STAFF B,0,0,0,,听说他把新人弄哭了。
 Dialogue: 0,0:06:20.42,0:06:22.69,Flashback,STAFF A,0,0,0,,什么？佐佐木先生？\N怎么可能！
-Dialogue: 0,0:06:25.66,0:06:29.74,Default,SASAKI,0,0,0,,如果她因此讨厌工作了\N我会很难过的。
+Dialogue: 0,0:06:25.66,0:06:29.74,Default,SASAKI,0,0,0,,如果，她因此讨厌工作了\N我会很难过的。
 Dialogue: 0,0:06:36.49,0:06:38.46,Default,TAYAMA,0,0,0,,我觉得问题不大。
 Dialogue: 0,0:06:38.46,0:06:43.65,Default,TAYAMA,0,0,0,,你们公司本来就是个血汗工厂\N天天加班到那么晚。
 Dialogue: 0,0:06:43.65,0:06:45.10,Default,TAYAMA,0,0,0,,反正她迟早也会辞职的。
 Dialogue: 0,0:06:45.10,0:06:47.63,Default,SASAKI,0,0,0,,别那么说啊，田山小姐……
-Dialogue: 0,0:06:49.73,0:06:53.97,Default,TAYAMA,0,0,0,,而且她刚毕业才进公司。
+Dialogue: 0,0:06:49.73,0:06:53.97,Default,TAYAMA,0,0,0,,而且，她刚毕业才进公司。
 Dialogue: 0,0:06:54.81,0:06:59.83,Default,TAYAMA,0,0,0,,她迟早会知道你是个好人。
-Dialogue: 0,0:07:03.54,0:07:06.68,Default,TAYAMA,0,0,0,,如果她能待到那个时候的话。
+Dialogue: 0,0:07:03.54,0:07:06.68,Default,TAYAMA,0,0,0,,如果，她能待到那个时候的话。
 Dialogue: 0,0:07:07.27,0:07:08.84,Default,SASAKI,0,0,0,,谢谢你能这么说。
 Dialogue: 0,0:07:13.30,0:07:17.33,Default,SASAKI,0,0,0,,山田小姐肯定不会遇到这种事。
 Dialogue: 0,0:07:17.75,0:07:19.42,Default,TAYAMA,0,0,0,,怎么扯到她了。
 Dialogue: 0,0:07:19.42,0:07:26.26,Default,SASAKI,0,0,0,,她肯定不会把新人吓哭。
 Dialogue: 0,0:07:27.69,0:07:32.76,Default,TAYAMA,0,0,0,,你是说跟我这张吓人的脸不一样？
 Dialogue: 0,0:07:32.76,0:07:34.90,Default,SASAKI,0,0,0,,我不是那个意思。
-Dialogue: 0,0:07:34.90,0:07:40.83,Default,TAYAMA,0,0,0,,不过她更容易被轻视\N而不是被害怕吧。
+Dialogue: 0,0:07:34.90,0:07:40.83,Default,TAYAMA,0,0,0,,不过，她更容易被轻视\N而不是被害怕吧。
 Dialogue: 0,0:07:40.83,0:07:42.98,Default,SASAKI,0,0,0,,被轻视？
 Dialogue: 0,0:07:45.19,0:07:47.68,Default,SASAKI,0,0,0,,我真的觉得她很了不起。
 Dialogue: 0,0:07:47.68,0:07:50.25,Default,SASAKI,0,0,0,,大半夜上班也精神饱满\N态度又开朗。

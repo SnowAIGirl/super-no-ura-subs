@@ -34,7 +34,7 @@ Dialogue: 0,0:01:39.12,0:01:43.33,Default,SUZUKI,0,0,0,,真希望有人炸一下
 Dialogue: 0,0:01:44.25,0:01:46.46,Default,EMPLOYEE F,0,0,0,,开会到底算啥\N我已经搞不懂了。
 Dialogue: 0,0:01:48.25,0:01:51.47,DefaultItalics,SASAKI,0,0,0,,连续开会开得\N大家都快疯了。
 Dialogue: 0,0:01:53.59,0:01:55.93,DefaultItalics,SASAKI,0,0,0,,老实说我也是。
-Dialogue: 0,0:01:56.55,0:01:59.93,DefaultItalics,SASAKI,0,0,0,,还好我有我的终极治愈：。
+Dialogue: 0,0:01:56.55,0:01:59.93,DefaultItalics,SASAKI,0,0,0,,还好我有终极治愈。
 Dialogue: 0,0:01:59.93,0:02:03.19,DefaultItalics,SASAKI,0,0,0,,去S超市二号收银台\N就能看到山田小姐的笑容！
 Dialogue: 0,0:02:03.19,0:02:05.48,FlashbackItalics,YAMADA,0,0,0,,欢迎光临！谢谢！
 Dialogue: 0,0:02:05.48,0:02:09.32,FlashbackItalics,TAYAMA,0,0,0,,大叔你就是总在\N二号收银台排队的人吧。
@@ -71,7 +71,7 @@ Dialogue: 0,0:04:31.29,0:04:34.80,Default,SASAKI,0,0,0,,这活儿本来就不是
 Dialogue: 0,0:04:34.80,0:04:36.51,Default,SUZUKI,0,0,0,,是组长吧。
 Dialogue: 0,0:04:36.51,0:04:40.13,Default,SUZUKI,0,0,0,,他就信奉\N把人扔进现场自学成才那套。
 Dialogue: 0,0:04:40.13,0:04:43.43,Default,SUZUKI,0,0,0,,吹得那么好听\N他自己倒是收拾烂摊子啊！
-Dialogue: 0,0:04:45.39,0:04:48.98,Default,SASAKI,0,0,0,,不过最辛苦的还是新人。
+Dialogue: 0,0:04:45.39,0:04:48.98,Default,SASAKI,0,0,0,,不过，最辛苦的还是新人。
 Dialogue: 0,0:04:48.98,0:04:50.19,Default,SASAKI,0,0,0,,你看这资料。
 Dialogue: 0,0:04:50.44,0:04:53.40,Default,SASAKI,0,0,0,,一看就是拼尽全力做的。
 Dialogue: 0,0:04:53.98,0:04:56.94,DefaultItalics,SASAKI,0,0,0,,再说了，我有我的治愈！
@@ -95,7 +95,7 @@ Dialogue: 0,0:05:58.38,0:06:01.51,Default,SASAKI,0,0,0,,从那以后每次排队
 Dialogue: 0,0:06:01.51,0:06:03.76,Default,TAYAMA,0,0,0,,可不是嘛，但你还在排。
 Dialogue: 0,0:06:05.22,0:06:06.64,DefaultItalics,SASAKI,0,0,0,,她到底是从哪儿看到的。
 Dialogue: 0,0:06:12.85,0:06:15.65,Default,TAYAMA,0,0,0,,佐佐木先生，\N上次那么说对不住了。
-Dialogue: 0,0:06:18.27,0:06:21.19,Default,TAYAMA,0,0,0,,不过山田小姐很开心哦。
+Dialogue: 0,0:06:18.27,0:06:21.19,Default,TAYAMA,0,0,0,,不过，山田小姐很开心哦。
 Dialogue: 0,0:06:21.19,0:06:23.65,Default,TAYAMA,0,0,0,,她自己不也说了嘛。
 Dialogue: 0,0:06:23.65,0:06:28.16,Default,SASAKI,0,0,0,,我活这么大岁数\N可不会傻到当真。
 Dialogue: 0,0:06:28.16,0:06:31.66,Default,TAYAMA,0,0,0,,是吗？那你要说的就这些？
@@ -106,7 +106,7 @@ Dialogue: 0,0:06:36.67,0:06:40.92,Default,SASAKI,0,0,0,,那晚让我在这儿抽
 Dialogue: 0,0:06:40.92,0:06:42.30,Default,TAYAMA,0,0,0,,嘿，我认识这个。
 Dialogue: 0,0:06:42.30,0:06:46.93,Default,SASAKI,0,0,0,,你认识Yummy Mochi Chips？\N我很喜欢。
 Dialogue: 0,0:06:46.93,0:06:50.93,Default,TAYAMA,0,0,0,,大爷大妈们特别喜欢。
-Dialogue: 0,0:06:51.43,0:06:53.60,DefaultItalics,SASAKI,0,0,0,,所以我已经迈入大爷的领域了。
+Dialogue: 0,0:06:51.43,0:06:53.60,DefaultItalics,SASAKI,0,0,0,,所以，我已经迈入大爷的领域了。
 Dialogue: 0,0:06:54.31,0:06:58.73,Default,TAYAMA,0,0,0,,我一直想尝尝\N谢谢你啊佐佐木先生。
 Dialogue: 0,0:06:58.73,0:07:01.44,Default,TAYAMA,0,0,0,,别站着了，坐下抽一根。
 Dialogue: 0,0:07:01.73,0:07:05.70,DefaultItalics,SASAKI,0,0,0,,哦？我老头子的口味居然管用了？
