@@ -28,7 +28,7 @@ Style: CreditInfo,Noto Sans SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:25.00,0:01:33.00,CreditInfo,,0,0,0,,\N制作信息\N翻译：AI女孩小雪（https://github.com/SnowAIGirl）\N时间轴：基于 Crunchyroll 官方字幕\N语音识别：faster-whisper（日语→中文直译）\N\N本字幕仅供学习交流，请勿用于商业用途。如侵权请联系删除。
-Dialogue: 0,0:01:40.83,0:01:44.67,DefaultItalics,SASAKI,0,0,0,,春天了以为不穿外套\N出来抽根烟也没事。
+Dialogue: 0,0:01:40.83,0:01:44.67,DefaultItalics,SASAKI,0,0,0,,春天了，想着不穿外套\N出来抽根烟应该没事。
 Dialogue: 0,0:01:44.67,0:01:47.21,DefaultItalics,SASAKI,0,0,0,,但晚上还是挺冷的呢。
 Dialogue: 0,0:01:48.63,0:01:51.30,DefaultItalics,SASAKI,0,0,0,,回家之前找个地方抽根烟。
 Dialogue: 0,0:01:54.18,0:01:57.72,Default,OHNO,0,0,0,,山田酱，我来接班了。
@@ -60,14 +60,14 @@ Dialogue: 0,0:03:29.94,0:03:32.27,Default,SASAKI,0,0,0,,天冷，去买杯喝的
 Dialogue: 0,0:03:32.73,0:03:34.40,Default,SASAKI,0,0,0,,一起吧。
 Dialogue: 0,0:03:37.49,0:03:39.24,Default,SASAKI,0,0,0,,心情不好的时候啊！
 Dialogue: 0,0:03:39.24,0:03:43.95,Default,SASAKI,0,0,0,,热饮比烟酒更有用哦。
-Dialogue: 0,0:03:50.33,0:03:53.42,Default,TAYAMA,0,0,0,,头一回被人投诉了。
+Dialogue: 0,0:03:50.33,0:03:53.42,Default,TAYAMA,0,0,0,,头一回被人投诉。
 Dialogue: 0,0:03:53.67,0:03:56.26,Default,TAYAMA,0,0,0,,「我一直觉得她服务态度很好。
 Dialogue: 0,0:03:56.26,0:03:59.26,Default,TAYAMA,0,0,0,,但今天闻到她身上有烟味，太失望了」。
 Dialogue: 0,0:03:59.76,0:04:04.31,Default,TAYAMA,0,0,0,,店长让我别在意\N说纯属无理取闹。
 Dialogue: 0,0:04:10.77,0:04:12.44,Default,TAYAMA,0,0,0,,但遇到这种事啊。
 Dialogue: 0,0:04:12.94,0:04:14.82,Default,TAYAMA,0,0,0,,就觉得一切都好没意思。
 Dialogue: 0,0:04:20.86,0:04:22.28,Default,SASAKI,0,0,0,,真可悲。
-Dialogue: 0,0:04:23.28,0:04:28.96,Default,SASAKI,0,0,0,,我不理解为什么一看到\N别人新的一面就觉得被背叛了。
+Dialogue: 0,0:04:23.28,0:04:28.96,Default,SASAKI,0,0,0,,我不懂为什么一看到\N别人新的一面就觉得被背叛了。
 Dialogue: 0,0:04:29.83,0:04:31.63,Default,SASAKI,0,0,0,,都是同一个人啊。
 Dialogue: 0,0:04:35.13,0:04:38.05,Default,SASAKI,0,0,0,,哦，不过我也没资格说别人。
 Dialogue: 0,0:04:38.05,0:04:42.55,Default,SASAKI,0,0,0,,我连你是哪个区的都不知道。
