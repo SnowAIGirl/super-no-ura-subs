@@ -169,7 +169,7 @@ Dialogue: 0,0:09:43.65,0:09:47.44,Default,GOTOU,0,0,0,,喂山田你在听吗？
 Dialogue: 0,0:09:46.23,0:09:47.94,DefaultOverlap,CUSTOMER,0,0,0,,打扰了。
 Dialogue: 0,0:09:47.44,0:09:49.61,Default,GOTOU,0,0,0,,请问需要什么？
 Dialogue: 0,0:09:49.61,0:09:51.70,Default,CUSTOMER,0,0,0,,请帮我包一下这个。
-Dialogue: 0,0:09:51.70,0:09:53.28,Default,GOTOU,0,0,0,,好的马上。
+Dialogue: 0,0:09:51.70,0:09:53.28,Default,GOTOU,0,0,0,,好的，马上。
 Dialogue: 0,0:09:57.70,0:09:59.87,DefaultItalics,YAMADA,0,0,0,,我知道。
 Dialogue: 0,0:10:01.37,0:10:02.62,DefaultItalics,YAMADA,0,0,0,,那为什么……
 Dialogue: 0,0:10:06.21,0:10:08.25,DefaultItalics,YAMADA,0,0,0,,我为什么在慌？
@@ -205,7 +205,7 @@ Dialogue: 0,0:12:02.49,0:12:04.70,Default,SASAKI,0,0,0,,啊体检结果？
 Dialogue: 0,0:12:05.16,0:12:08.25,Default,SASAKI,0,0,0,,正打算明天去做进一步检查。
 Dialogue: 0,0:12:08.62,0:12:09.25,Default,SASAKI,0,0,0,,嗯？
 Dialogue: 0,0:12:09.75,0:12:10.50,Default,SASAKI,0,0,0,,什么？
-Dialogue: 0,0:12:12.29,0:12:14.59,Default,SASAKI,0,0,0,,好的我明白了。
+Dialogue: 0,0:12:12.29,0:12:14.59,Default,SASAKI,0,0,0,,好的，我明白了。
 Dialogue: 0,0:12:15.88,0:12:17.26,Default,SASAKI,0,0,0,,再见。
 Dialogue: 0,0:12:29.64,0:12:31.56,Default,SASAKI,0,0,0,,是误诊。
 Dialogue: 0,0:12:33.15,0:12:37.28,Default,SASAKI,0,0,0,,说我这个年龄器官非常健康。
